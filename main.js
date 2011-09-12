@@ -10,13 +10,11 @@ var parser = /^(\S+)\s*-\s*(\S+)\s+([^(]+)\(([^)]+)\)$/,
         'Alle' : '#c00'
     };
 
-
-
 var table = $('#persons'),
     thead = $('<thead>').appendTo(table),
     headerRow = $('<tr>').appendTo(thead).append('<td>'),
     tbody = $('<tbody>').appendTo(table),
-    startHour = 7.5,
+    startHour = 7,
     intervalCount = 32;
 
 for (var i = 0; i < intervalCount; i++) {
@@ -47,8 +45,8 @@ function parseData(data) {
     for (var i in lines) {
         var tokens = lines[i].match(parser),
             entry = {
-                start: tokens[1].trim(),
-                end: tokens[2].trim(),
+                start: parseTime(tokens[1]),
+                end: parseTime(tokens[2]),
                 text: tokens[3].trim(),
             },
             atendees = tokens[4].split(',');
@@ -71,26 +69,44 @@ function parseData(data) {
     return persons;
 }
 
-function renderTable(persons) {
-    var names = Object.keys(persons).sort();
+function parseTime(text) {
+    var tokens = text.split(':'),
+        hours = parseInt(tokens[0], 10),
+        minutes = parseInt(tokens[1], 10),
+        decimal = hours + minutes / 60;
     
-    for (var i in names) {
-        var name = names[i],
-            entries = persons[name],
-            row = $('<tr>').appendTo(tbody);
+    return Math.round(2 * ( decimal - startHour ));
+}
+
+function renderTable(persons) {
+    var names = _(persons).keys().sort();
+    
+    _(names).each(function (name) {
+        var row = $('<tr>').appendTo(tbody),
+            queue = _(persons[name]).sortBy(function (x) { return x.start; }),
+            pointer = 0;
         
         $('<th>').text(name).appendTo(row);
         
-        for (var j in entries) {
-            var entry = entries[j];
+        while (queue.length > 0) {
+            var entry = queue.shift(),
+                duration = entry.end - entry.start;
             
-            $('<td colspan=5>').css('background', '#f3a').text(entry.text).appendTo(row);
+            while (pointer < entry.start) {
+                row.append('<td>');
+                pointer++;
+            }
+            
+            $('<td>').attr('colspan', duration).text(entry.text).appendTo(row).attr('title', entry.start).css('background', '#f3a');
+            
+            pointer += duration;
         }
         
-        for (var j = entries.length * 5; j < intervalCount; j++) {
-            $('<td>').appendTo(row);
+        while (pointer < intervalCount) {
+            row.append('<td>');
+            pointer++;
         }
-    }
+    });
 }
 
 $(window).bind('hashchange', function () {

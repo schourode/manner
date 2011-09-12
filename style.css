@@ -57,4 +57,5 @@ tbody td {
   color: #fff;
   text-align: center;
   white-space: nowrap;
+  overflow: hidden;
 }
