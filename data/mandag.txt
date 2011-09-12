@@ -1,8 +1,10 @@
 07:00 - 08:30	Vækning: Barista
-09:00 - 11:00	Hejk (debriefing): Hejk
 07:30 - 13:00	Fraværende: Margrethe
+09:00 - 11:00	Hejk (debriefing): Hejk, Barista
+09:00 - 11:00	Administration: Luise, Morten
 10:00 - 15:30	Fraværende: Ida
-11:00 - 12:30	Havnerundfart: Morten, Rie, Christian
+11:00 - 12:30	Havnerundfart: Barista
+11:00 - 12:30	Hejk-oprydning: Hejk
 12:30 - 13:00	Frokost: Alle
 13:00 - 13:30	Velkomst: Alle
 13:30 - 16:00	Teltslagning: P-vagt

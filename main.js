@@ -1,10 +1,10 @@
 var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
     groups = {
-        'Barista': ['Christian','Julie','Luise','Mai','Morten','Uncas'],
-        'Guide': ['Margrethe','Malene','Maria'],
+        'Barista': ['Christian','Ida','Julie','Luise','Mai','Maj','Morten','Uncas'],
+        'Guide': ['Christian','Malene','Margrethe','Maria'],
         'P-vagt': ['Emil','J\u00f8rn','Rie','Jonathan'],
-        'Madhold': ['Anne','Kristine'],
-        'Alle': ['Barista','Guide','P-vagt','Madhold'],
+        'Mad': ['Anne','Kristine','Signe'],
+        'Alle': ['Barista','Guide','P-vagt','Mad'],
         'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']
     },
     colors = {
@@ -13,7 +13,9 @@ var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
         'Fraværende': '#999',
         'Frokost': '#930',
         'Hejk': '#c00',
+        'K\u00f8kken': '#0af',
         'Lejrbål': '#669',
+        'Opvask': '#0af',
         'P-vagt': '#393'
     };
 
