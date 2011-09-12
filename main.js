@@ -1,13 +1,18 @@
-var parser = /^(\S+)\s*-\s*(\S+)\s+([^(]+)\(([^)]+)\)$/,
+var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
     groups = {
         'Barista': ['Christian','Jonathan','Luise','Morten','Uncas'],
         'Guide': ['Magrethe','Malene','Maria'],
         'P-vagt': ['Emil','J\u00f8rn','Rie'],
         'Madhold': ['Anne','Kristine'],
-        'Alle': ['Barista','Guide','P-vagt','Madhold']
+        'Alle': ['Barista','Guide','P-vagt','Madhold'],
+        'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']
     },
     colors = {
-        'Alle' : '#c00'
+        'Alle' : '#f39',
+        'Fraværende': '#999',
+        'Frokost': '#909',
+        'Hejk': '#c00',
+        'Lejrplads': '#393'
     };
 
 var table = $('#persons'),
@@ -47,12 +52,14 @@ function parseData(data) {
             entry = {
                 start: parseTime(tokens[1]),
                 end: parseTime(tokens[2]),
-                text: tokens[3].trim(),
+                text: tokens[3].trim()
             },
-            atendees = tokens[4].split(',');
+            atendees = _(tokens[4].split(',')).map(function (x) { return x.trim(); });
+            
+        entry.color = colors[entry.text] || colors[atendees[0]] || '#36c';
         
         while (atendees.length > 0) {
-            var name = atendees.pop().trim();
+            var name = atendees.pop();
             if (groups[name]) {
                 atendees = atendees.concat(groups[name]);
                 continue;
@@ -97,7 +104,11 @@ function renderTable(persons) {
                 pointer++;
             }
             
-            $('<td>').attr('colspan', duration).text(entry.text).appendTo(row).attr('title', entry.start).css('background', '#f3a');
+            $('<td>')
+                .appendTo(row)
+                .text(entry.text)
+                .attr('colspan', duration)
+                .css('background', entry.color);
             
             pointer += duration;
         }
