@@ -8,15 +8,18 @@ var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
         'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']
     },
     colors = {
+        'Administration' : '#999',
         'Alle' : '#f39',
         'Barista': '#909',
         'Fraværende': '#999',
         'Frokost': '#930',
-        'Hejk': '#c00',
+        'Guide': '#066',
+        'Hejk': '#c30',
         'K\u00f8kken': '#0af',
         'Lejrbål': '#669',
         'Opvask': '#0af',
-        'P-vagt': '#393'
+        'P-vagt': '#393',
+        'Settlers': '#336'
     };
 
 var table = $('#persons'),
