@@ -108,7 +108,8 @@ function renderTable(persons) {
                 .appendTo(row)
                 .text(entry.text)
                 .attr('colspan', duration)
-                .css('background', entry.color);
+                .css('background', entry.color)
+                .css('font-size', Math.min(100, 40 + Math.ceil(300 * duration / entry.text.length)) + '%');
             
             pointer += duration;
         }

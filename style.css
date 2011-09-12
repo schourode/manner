@@ -46,7 +46,11 @@ thead td {
 }
 
 tbody th, tbody td {
-  padding: .5em;
+  padding: .5em 0;
+}
+
+tbody th {
+  padding-right: .5em;
 }
 
 tbody th {
