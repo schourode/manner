@@ -15,10 +15,12 @@ var parser = /^(\S+)\s*-\s*(\S+)\s+([^(]+)\(([^)]+)\)$/,
 var table = $('#persons'),
     thead = $('<thead>').appendTo(table),
     headerRow = $('<tr>').appendTo(thead).append('<td>'),
-    tbody = $('<tbody>').appendTo(table);
+    tbody = $('<tbody>').appendTo(table),
+    startHour = 7.5,
+    intervalCount = 32;
 
-for (var i = 0; i < 32; i++) {
-    var decimal = i / 2 + 7,
+for (var i = 0; i < intervalCount; i++) {
+    var decimal = i / 2 + startHour,
         hours = Math.floor(decimal),
         minutes = decimal % 1 ? '30' : '00',
         label = hours + ':' + minutes;
@@ -82,7 +84,11 @@ function renderTable(persons) {
         for (var j in entries) {
             var entry = entries[j];
             
-            $('<td colspan=4>').css('background', '#f3a').text(entry.text).appendTo(row);
+            $('<td colspan=5>').css('background', '#f3a').text(entry.text).appendTo(row);
+        }
+        
+        for (var j = entries.length * 5; j < intervalCount; j++) {
+            $('<td>').appendTo(row);
         }
     }
 }
