@@ -1,18 +1,20 @@
 var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
     groups = {
-        'Barista': ['Christian','Jonathan','Luise','Morten','Uncas'],
-        'Guide': ['Magrethe','Malene','Maria'],
-        'P-vagt': ['Emil','J\u00f8rn','Rie'],
+        'Barista': ['Christian','Julie','Luise','Mai','Morten','Uncas'],
+        'Guide': ['Margrethe','Malene','Maria'],
+        'P-vagt': ['Emil','J\u00f8rn','Rie','Jonathan'],
         'Madhold': ['Anne','Kristine'],
         'Alle': ['Barista','Guide','P-vagt','Madhold'],
         'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']
     },
     colors = {
         'Alle' : '#f39',
+        'Barista': '#909',
         'Fraværende': '#999',
-        'Frokost': '#909',
+        'Frokost': '#930',
         'Hejk': '#c00',
-        'Lejrplads': '#393'
+        'Lejrbål': '#669',
+        'P-vagt': '#393'
     };
 
 var table = $('#persons'),
@@ -97,7 +99,9 @@ function renderTable(persons) {
         
         while (queue.length > 0) {
             var entry = queue.shift(),
-                duration = entry.end - entry.start;
+                duration = entry.end - Math.max(entry.start, pointer);
+                
+            if (duration < 1) continue;
             
             while (pointer < entry.start) {
                 row.append('<td>');

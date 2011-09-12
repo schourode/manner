@@ -1,9 +1,16 @@
-07:00 - 08:30	Lejrplads: Barista
-09:00 - 11:30	Hejkafrunding: Hejk
+07:00 - 08:30	Vækning: Barista
+09:00 - 11:00	Hejk (debriefing): Hejk
 07:30 - 13:00	Fraværende: Margrethe
 10:00 - 15:30	Fraværende: Ida
+11:00 - 12:30	Havnerundfart: Morten, Rie, Christian
 12:30 - 13:00	Frokost: Alle
-13:00 - 14:00	Havnerundfart: Morten, Rie, Christian
-14:30 - 14:45	Velkomst: Alle
-14:45 - 16:00	Lejrplads: P-vagt
+13:00 - 13:30	Velkomst: Alle
+13:30 - 16:00	Teltslagning: P-vagt
 16:00 - 17:00	Teamets time: Alle
+17:00 - 18:00	Lejrplads: P-vagt
+18:00 - 18:30	Aftensmad: Alle
+18:30 - 20:00	Lejrplads: P-vagt
+20:00 - 21:00	P-café: Barista
+20:00 - 22:00	Lejrbål: Emil, Maria
+21:00 - 22:00	Lejrbål: Barista
+22:30 - 23:00	Godnat: P-vagt
