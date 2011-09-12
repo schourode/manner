@@ -1,0 +1,14 @@
+07:00 - 08:00	Køkken: Mad
+08:00 - 09:00	Morgenmad: Alle
+09:00 - 18:00	Køkken: Mad
+09:00 - 13:00	Hejk-forberedelser: Hejk, Bil 1
+11:00 - 11:30	Frokost: Asti, Jørn, Morten, Margrethe, Christian, Ida, Kim, Luise, Malene, Maria, Rie, Stald
+12:00 - 13:00	Check-in: Asti, Jørn, Morten, Margrethe
+12:00 - 13:00	Axeltorv: Christian, Ida, Kim, Luise, Malene, Maria, Rie, Stald
+13:00 - 14:00	P-velkomst: Barista
+14:00 - 23:00	Hejk-HQ: Hejk, Bil 1
+17:30 - 18:00	Køkken: Asti, Jørn
+18:00 - 18:30	Aftensmad: Asti, Jørn, Morten, Margrethe, Christian, Ida, Kim, Luise, Malene, Maria, Rie, Stald
+18:30 - 19:00	Opvask: Morten, Margrethe
+18:00 - 20:00	Restaurant: Mad
+22:00 - 23:00	Godnat: Barista
