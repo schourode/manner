@@ -4,15 +4,13 @@
 07:30 - 08:30	Morgenmad: Alle
 09:00 - 09:30	Samling: Alle
 09:30 - 12:30	P-møde: Guide
-09:30 - 11:00	P-møde: Ida, Kim, Maj, Uncas
 09:30 - 12:30	Administration: Luise, Morten
-09:30 - 12:30	Settlers-forberedelse: Rie, Asti
+09:30 - 12:30	Cook-along-forberedelse: Jonathan, Jørn, Kristine
 09:30 - 16:00	Køkken: Mad
 12:30 - 13:00	Frokost: Alle
 16:00 - 17:00	Teamets time: Alle
-17:00 - 19:00	Settlers-forberedelse: Rie, Asti, Jørn
-17:00 - 18:00	P-café: Barista
-17:00 - 19:30	Køkken: Mad, Jonathan, Malene
+17:00 - 23:00	Natløb: Emil, Christian, Malene, Margrethe
+17:00 - 20:30	Cook-along: Mad, P-vagt
 18:00 - 18:30	Aftensmad: Alle
-19:00 - 22:00	Settlers: Alle
-22:00 - 23:00	Godnat: P-vagt
+20:00 - 21:00	P-café: Barista
+21:00 - 23:00	Natløb: Alle

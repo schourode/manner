@@ -1,0 +1,14 @@
+07:00 - 07:30	Køkken: Mad
+07:00 - 07:30	Vækning: Alle
+07:30 - 09:00	Lejrplads: P-vagt
+07:30 - 08:30	Morgenmad: Alle
+09:00 - 09:30	Samling: Alle
+09:30 - 12:30	P-møde: Guide
+09:30 - 12:30	Administration: Luise, Morten
+09:30 - 18:30	Køkken: Mad
+12:30 - 13:00	Frokost: Alle
+13:00 - 15:30	Evaluering: Barista
+13:00 - 18:00	Lejrnedbrydning: P-vagt
+16:30 - 18:30	Bademester: Maj
+17:00 - 18:30	Pre-banket: Christian, Asti, Mai, Michael, Morten
+18:30 - 23:00	Banket: Alle

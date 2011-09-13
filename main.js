@@ -1,6 +1,6 @@
 var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
     groups = {
-        'Barista': ['Christian','Ida','Julie','Luise','Mai','Maj','Morten','Uncas'],
+        'Barista': ['Ida','Julie','Luise','Mai','Maj','Michael','Morten','Uncas'],
         'Guide': ['Christian','Malene','Margrethe','Maria'],
         'P-vagt': ['Emil','J\u00f8rn','Rie','Jonathan'],
         'Mad': ['Anne','Kristine','Signe'],
@@ -10,15 +10,18 @@ var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
     colors = {
         'Administration' : '#999',
         'Alle' : '#f39',
+        'Banket': '#036',
         'Barista': '#909',
         'Fraværende': '#999',
         'Frokost': '#930',
-        'Guide': '#066',
         'Hejk': '#c30',
         'K\u00f8kken': '#0af',
         'Lejrbål': '#669',
+        'Natl\u00f8b': '#336',
         'Opvask': '#0af',
+        'Oprydning': '#f63',
         'P-vagt': '#393',
+        'P-møde': '#066',
         'Settlers': '#336'
     };
 
@@ -97,7 +100,7 @@ function renderTable(persons) {
     
     _(names).each(function (name) {
         var row = $('<tr>').appendTo(tbody),
-            queue = _(persons[name]).sortBy(function (x) { return x.start; }),
+            queue = persons[name],
             pointer = 0;
         
         $('<th>').text(name).appendTo(row);
