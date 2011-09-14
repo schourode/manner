@@ -1,5 +1,7 @@
 07:00 - 08:30	Vækning: Barista
+07:30 - 08:30	Morgenmad: Alle
 07:30 - 13:00	Fraværende: Margrethe
+08:30 - 12:30	Køkken: Mad
 09:00 - 11:00	Hejk (debriefing): Hejk, Barista
 09:00 - 11:00	Administration: Luise, Morten
 10:00 - 15:30	Fraværende: Ida
@@ -7,11 +9,16 @@
 11:00 - 12:30	Hejk-oprydning: Hejk
 12:30 - 13:00	Frokost: Alle
 13:00 - 13:30	Velkomst: Alle
+13:30 - 16:00	Administration: Luise, Morten
+13:30 - 16:00	Køkken: Mad
 13:30 - 16:00	Teltslagning: P-vagt
 16:00 - 17:00	Teamets time: Alle
 17:00 - 18:00	Lejrplads: P-vagt
+17:00 - 18:00	Køkken: Mad, Maj, Uncas
 18:00 - 18:30	Aftensmad: Alle
+18:30 - 19:00	Opvask: Luise, Stald
 18:30 - 20:00	Lejrplads: P-vagt
+18:30 - 21:00	Køkken: Mad
 20:00 - 21:00	P-café: Barista
 20:00 - 22:00	Lejrbål: Emil, Maria
 21:00 - 22:00	Lejrbål: Barista

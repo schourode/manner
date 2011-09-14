@@ -10,8 +10,11 @@
 12:30 - 13:00	Frokost: Alle
 16:00 - 17:00	Teamets time: Alle
 17:00 - 18:00	Lejrplads: P-vagt
+17:00 - 18:00	Køkken: Mad, Maria, Stald
 18:00 - 18:30	Aftensmad: Alle
+18:30 - 19:00	Opvask: Kim, Malene
 18:30 - 20:00	Lejrplads: P-vagt
+18:30 - 21:00	Køkken: Mad
 18:30 - 21:30	Banket-forberedelse: Christian, Malene, Maria
 20:00 - 21:00	P-café: Barista
 20:00 - 22:00	Lejrbål: Emil, Margrethe
