@@ -1,4 +1,4 @@
-var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
+var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
         'Barista': ['Ida','Julie','Luise','Mai','Maj','Michael','Morten','Uncas'],
         'Guide': ['Christian','Malene','Margrethe','Maria'],
@@ -25,7 +25,9 @@ var parser = /^(\S+)\s*-\s*(\S+)\s+([^:]+):([^)]+)$/,
         'Settlers': '#336'
     };
 
-var table = $('#persons'),
+var personSelect = $('select[name="person"]'),
+    daySelect = $('select[name="day"]'),
+    table = $('#persons'),
     thead = $('<thead>').appendTo(table),
     headerRow = $('<tr>').appendTo(thead).append('<td>'),
     tbody = $('<tbody>').appendTo(table),
@@ -42,13 +44,10 @@ for (var i = 0; i < intervalCount; i++) {
     $('<th>').appendTo(headerRow).text(label);
 }
 
-function loadData(hash) {
+function loadData(file) {
     tbody.empty();
     
-    $('h1 a').removeClass('selected')
-        .filter('[href="' + hash + '"]').addClass('selected');
-    
-    $.get('data/' + hash.substring(1) + '.txt', function (data) {
+    $.get('data/' + file + '.txt', function (data) {
         var persons = parseData(data);
         renderTable(persons);
     });
@@ -61,18 +60,19 @@ function parseData(data) {
     for (var i in lines) {
         var tokens = lines[i].match(parser),
             entry = {
-                start: tokens[1].trim(),
-                end: tokens[2].trim(),
-                startCol: parseTime(tokens[1]),
-                endCol: parseTime(tokens[2]),
-                text: tokens[3].trim()
+                when: tokens[1],
+                start: parseTime(tokens[2]),
+                end: parseTime(tokens[3]),
+                text: tokens[4].trim(),
+                who: tokens[5]
             },
-            atendees = _(tokens[4].split(',')).map(function (x) { return x.trim(); });
+            atendees = _(entry.who.split(',')).map(function (x) { return x.trim(); });
             
         entry.color = colors[entry.text] || colors[atendees[0]] || '#36c';
         
         while (atendees.length > 0) {
             var name = atendees.pop();
+            
             if (groups[name]) {
                 atendees = atendees.concat(groups[name]);
                 continue;
@@ -102,20 +102,27 @@ function renderTable(persons) {
     var names = _(persons).keys().sort(),
         currentCol = parseTime(now.getHours() + ':' + now.getMinutes());
     
+    personSelect.empty();
+    
     _(names).each(function (name) {
-        var row = $('<tr>').appendTo(tbody),
+        var option = $('<option>').text(name).appendTo(personSelect),
+            row = $('<tr>').appendTo(tbody),
             queue = persons[name],
             pointer = 0;
+        
+        if (name === $.cookie('person')) {
+            option.attr('selected', true);
+        }
         
         $('<th>').text(name).appendTo(row);
         
         while (queue.length > 0) {
             var entry = queue.shift(),
-                duration = entry.endCol - Math.max(entry.startCol, pointer);
+                duration = entry.end - Math.max(entry.start, pointer);
                 
             if (duration < 1) continue;
             
-            while (pointer < entry.startCol) {
+            while (pointer < entry.start) {
                 row.append('<td>');
                 pointer++;
             }
@@ -123,12 +130,13 @@ function renderTable(persons) {
             $('<td>')
                 .appendTo(row)
                 .text(entry.text)
-                .attr('title', entry.start + ' - ' + entry.end)
+                .attr('data-when', entry.when)
+                .attr('data-who', entry.who)
                 .attr('colspan', duration)
                 .css('background', entry.color)
                 .css('font-size', Math.min(100, 40 + Math.ceil(300 * duration / entry.text.length)) + '%')
-                .toggleClass('past', entry.endCol <= currentCol)
-                .toggleClass('now', entry.endCol > currentCol && !row.children().is('.now'));
+                .toggleClass('past', entry.end <= currentCol)
+                .toggleClass('now', entry.end > currentCol && !row.children().is('.now'));
             
             pointer += duration;
         }
@@ -138,18 +146,22 @@ function renderTable(persons) {
             pointer++;
         }
     });
+    
+    personSelect.change();
 }
 
-$(window).bind('hashchange', function () {
-    loadData(location.hash);
+daySelect.children().eq(now.getDay()).attr('selected', true);
+
+daySelect.change(function () {
+    loadData($(this).val());
+}).change();
+
+personSelect.change(function () {
+    var index = $(this).children('[selected]').index();
+    tbody.children().removeClass('selected').eq(index).addClass('selected');
+    $.cookie('person', $(this).val());
 });
 
-if (location.hash) {
-    loadData(location.hash);
-}
-else {
-    var day = now.getDay(),
-        hash = $('h1 a').eq(day).attr('href');
-    
-    loadData(hash);
-}
+$('header select').yaselect();
+
+$('body').addClass('ready');

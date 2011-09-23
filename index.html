@@ -1,23 +1,33 @@
 <!DOCTYPE html>
-<title>Mandskabsplan</title>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<link rel="stylesheet" href="style.css" />
+<head>
+	<title>Mandskabsplan</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+	<header>
+		<h1>Mandskabsplan:</h1>
+		
+		<select name="person"></select>
 
-<h1>
-	Mandskabsplan:
-	<a href="#sondag">søndag</a>
-	<a href="#mandag">mandag</a>
-	<a href="#tirsdag">tirsdag</a>
-	<a href="#onsdag">onsdag</a>
-	<a href="#torsdag">torsdag</a>
-	<a href="#fredag">fredag</a>
-	<a href="#lordag">lørdag</a>
-</h1>
+		<select name="day">
+			<option value="sondag">søndag</option>
+			<option value="mandag">mandag</option>
+			<option value="tirsdag">tirsdag</option>
+			<option value="onsdag">onsdag</option>
+			<option value="torsdag">torsdag</option>
+			<option value="fredag">fredag</option>
+			<option value="lordag">lørdag</option>
+		</select>
+	</header>
 
-<table id="persons"></table>
+	<table id="persons"></table>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-<script src="underscore-min.js"></script>
-<script src="main.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	<script src="jquery.cookie.js"></script>
+	<script src="jquery.yaselect.min.js"></script>
+	<script src="underscore-min.js"></script>
+	<script src="main.js"></script>
+</body>
