@@ -159,7 +159,7 @@ daySelect.change(function () {
 personSelect.change(function () {
     var index = $(this).children('[selected]').index();
     tbody.children().removeClass('selected').eq(index).addClass('selected');
-    $.cookie('person', $(this).val());
+    $.cookie('person', $(this).val(), { path: '/', expires: 30 });
 });
 
 $('header select').yaselect();
