@@ -30,7 +30,8 @@ var table = $('#persons'),
     headerRow = $('<tr>').appendTo(thead).append('<td>'),
     tbody = $('<tbody>').appendTo(table),
     startHour = 7,
-    intervalCount = 32;
+    intervalCount = 32,
+    now = new Date();
 
 for (var i = 0; i < intervalCount; i++) {
     var decimal = i / 2 + startHour,
@@ -60,8 +61,10 @@ function parseData(data) {
     for (var i in lines) {
         var tokens = lines[i].match(parser),
             entry = {
-                start: parseTime(tokens[1]),
-                end: parseTime(tokens[2]),
+                start: tokens[1].trim(),
+                end: tokens[2].trim(),
+                startCol: parseTime(tokens[1]),
+                endCol: parseTime(tokens[2]),
                 text: tokens[3].trim()
             },
             atendees = _(tokens[4].split(',')).map(function (x) { return x.trim(); });
@@ -96,7 +99,8 @@ function parseTime(text) {
 }
 
 function renderTable(persons) {
-    var names = _(persons).keys().sort();
+    var names = _(persons).keys().sort(),
+        currentCol = parseTime(now.getHours() + ':' + now.getMinutes());
     
     _(names).each(function (name) {
         var row = $('<tr>').appendTo(tbody),
@@ -107,11 +111,11 @@ function renderTable(persons) {
         
         while (queue.length > 0) {
             var entry = queue.shift(),
-                duration = entry.end - Math.max(entry.start, pointer);
+                duration = entry.endCol - Math.max(entry.startCol, pointer);
                 
             if (duration < 1) continue;
             
-            while (pointer < entry.start) {
+            while (pointer < entry.startCol) {
                 row.append('<td>');
                 pointer++;
             }
@@ -119,9 +123,12 @@ function renderTable(persons) {
             $('<td>')
                 .appendTo(row)
                 .text(entry.text)
+                .attr('title', entry.start + ' - ' + entry.end)
                 .attr('colspan', duration)
                 .css('background', entry.color)
-                .css('font-size', Math.min(100, 40 + Math.ceil(300 * duration / entry.text.length)) + '%');
+                .css('font-size', Math.min(100, 40 + Math.ceil(300 * duration / entry.text.length)) + '%')
+                .toggleClass('past', entry.endCol <= currentCol)
+                .toggleClass('now', entry.endCol > currentCol && !row.children().is('.now'));
             
             pointer += duration;
         }
@@ -141,8 +148,7 @@ if (location.hash) {
     loadData(location.hash);
 }
 else {
-    var now = new Date(),
-        day = now.getDay(),
+    var day = now.getDay(),
         hash = $('h1 a').eq(day).attr('href');
     
     loadData(hash);

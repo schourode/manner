@@ -1,5 +1,5 @@
 h1 {
-  font: xx-large Helvetica, Arial, sans-serif;
+  font: 130% Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
@@ -62,4 +62,52 @@ tbody td {
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+  h1, thead {
+    display: none;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  table, tbody, tbody tr, tbody th, tbody td {
+    margin: 0;
+    border: 0;
+    display: block;
+    text-align: left;
+  }
+
+  tbody th {
+    padding: .75em;
+    font-weight: bold;
+  }
+
+  tbody td {
+    padding: .75em;
+    border-top: 1px solid #ccc;
+    font-size: 100% !important;
+    background: transparent !important;
+    color: #000;
+  }
+
+  tbody td.past {
+    color: #999;
+  }
+  
+  tbody td.now {
+    background: #69f !important;
+    color: #fff;
+  }
+
+  tbody td:before {
+    content: attr(title) ': ';
+  }
+  
+  td:empty {
+    display: none;
+  }
 }
