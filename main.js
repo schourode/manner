@@ -150,16 +150,22 @@ function renderTable(persons) {
     personSelect.change();
 }
 
-daySelect.children().eq(now.getDay()).attr('selected', true);
+if ($.cookie('day')) {
+    daySelect.val($.cookie('day'));
+}
+else {
+    daySelect.children().eq(now.getDay()).attr('selected', true);
+}
 
 daySelect.change(function () {
     loadData($(this).val());
+    $.cookie('day', $(this).val());
 }).change();
 
 personSelect.change(function () {
     var index = $(this).children('[selected]').index();
     tbody.children().removeClass('selected').eq(index).addClass('selected');
-    $.cookie('person', $(this).val(), { path: '/', expires: 30 });
+    $.cookie('person', $(this).val(), { expires: 30 });
 });
 
 $('header select').yaselect();
