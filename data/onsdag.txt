@@ -1,6 +1,7 @@
 07:00 - 07:30	Køkken: Mad
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Lejrplads: P-vagt
+07:30 - 15:00	Fraværende: Ida
 07:30 - 08:30	Morgenmad: Alle
 09:00 - 09:30	Samling: Alle
 09:30 - 12:30	P-møde: Guide

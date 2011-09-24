@@ -1,8 +1,8 @@
 var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
-        'Barista': ['Ida','Julie','Luise','Mai','Maj','Michael','Morten','Uncas'],
-        'Guide': ['Christian','Malene','Margrethe','Maria'],
-        'P-vagt': ['Emil','J\u00f8rn','Rie','Jonathan'],
+        'Barista': ['Christian','Ida','Jonathan','Julie','Luise','Mai','Maj','Michael','Morten','Uncas'],
+        'Guide': ['Christian','Kim','Malene','Margrethe','Maria'],
+        'P-vagt': ['Asti','Emil','J\u00f8rn','Rie','Stald'],
         'Mad': ['Anne','Kristine','Signe'],
         'Alle': ['Barista','Guide','P-vagt','Mad'],
         'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']

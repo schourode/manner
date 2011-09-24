@@ -1,10 +1,11 @@
+07:00 - 13:00	Fraværende: Malene
 07:00 - 08:30	Vækning: Barista
 07:30 - 08:30	Morgenmad: Alle
 07:30 - 13:00	Fraværende: Margrethe
 08:30 - 12:30	Køkken: Mad
+09:00 - 15:30	Fraværende: Ida
 09:00 - 11:00	Hejk (debriefing): Hejk, Barista
 09:00 - 11:00	Administration: Luise, Morten
-10:00 - 15:30	Fraværende: Ida
 11:00 - 12:30	Havnerundfart: Barista
 11:00 - 12:30	Hejk-oprydning: Hejk
 12:30 - 13:00	Frokost: Alle

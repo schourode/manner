@@ -121,6 +121,7 @@ tbody td {
     margin-top: .25em;
     font-size: small;
     color: #999;
+    white-space: normal;
   }
 
   tbody td.now:before, tbody td.now:after {
