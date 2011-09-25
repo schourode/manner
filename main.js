@@ -8,20 +8,22 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
         'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']
     },
     colors = {
-        'Administration' : '#999',
+        'Administration' : '#696',
         'Alle' : '#f39',
         'Banket': '#036',
         'Barista': '#909',
         'Fraværende': '#999',
-        'Frokost': '#930',
         'Hejk': '#c30',
+        'Hovedbanegården': '#900',
         'K\u00f8kken': '#0af',
         'Lejrbål': '#669',
         'Natl\u00f8b': '#336',
+        'Nattevagt': '#333',
         'Opvask': '#0af',
-        'Oprydning': '#f63',
+        'Oprydning': '#633',
         'P-vagt': '#393',
         'P-møde': '#066',
+        'Rådhuspladsen': '#c30',
         'Settlers': '#336'
     };
 

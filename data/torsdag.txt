@@ -2,21 +2,23 @@
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Lejrplads: P-vagt
 07:30 - 08:30	Morgenmad: Alle
+08:30 - 09:00	Opvask: Malene, Jonathan
 09:00 - 09:30	Samling: Alle
 09:30 - 12:30	Administration: Luise, Morten
 09:30 - 12:30	P-møde: Guide
 09:30 - 10:30	P-møde: Barista
 09:30 - 16:00	Køkken: Mad
+12:00 - 13:30	Køkken: Luise, Rie
 12:30 - 13:00	Frokost: Alle
 16:00 - 17:00	Teamets time: Alle
 17:00 - 18:00	Lejrplads: P-vagt
-17:00 - 18:00	Køkken: Mad, Maria, Stald
+17:00 - 18:00	Køkken: Mad
 18:00 - 18:30	Aftensmad: Alle
-18:30 - 19:00	Opvask: Kim, Malene
+18:30 - 19:30	Opvask: Margrethe, Uncas
 18:30 - 20:00	Lejrplads: P-vagt
 18:30 - 21:00	Køkken: Mad
-18:30 - 21:30	Banket-forberedelse: Christian, Malene, Maria
+18:30 - 22:00	Banket-forberedelse: Kim, Malene, Maria
 20:00 - 21:00	P-café: Barista
 20:00 - 22:00	Lejrbål: Emil, Margrethe
 21:00 - 22:00	Lejrbål: Barista
-22:00 - 23:00	Godnat: P-vagt
+22:00 - 23:00	Nattevagt: Asti, Jørn
