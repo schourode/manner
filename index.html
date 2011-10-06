@@ -1,34 +1,38 @@
 <!DOCTYPE html>
-<head>
-	<title>Mandskabsplan</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width" />
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<link rel="apple-touch-icon" href="holmen.png" />
-	<link rel="stylesheet" href="style.css" />
-</head>
-<body>
-	<header>
-		<h1>Mandskabsplan:</h1>
+<html manifest="offline.appcache">
+	<head>
+		<title>Mandskabsplan</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-57.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-114.png" />
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1>Mandskabsplan:</h1>
 		
-		<select name="person"></select>
+			<select name="person"></select>
 
-		<select name="day">
-			<option value="sondag">søndag</option>
-			<option value="mandag">mandag</option>
-			<option value="tirsdag">tirsdag</option>
-			<option value="onsdag">onsdag</option>
-			<option value="torsdag">torsdag</option>
-			<option value="fredag">fredag</option>
-			<option value="lordag">lørdag</option>
-		</select>
-	</header>
+			<select name="day">
+				<option value="sondag">søndag</option>
+				<option value="mandag">mandag</option>
+				<option value="tirsdag">tirsdag</option>
+				<option value="onsdag">onsdag</option>
+				<option value="torsdag">torsdag</option>
+				<option value="fredag">fredag</option>
+				<option value="lordag">lørdag</option>
+			</select>
+		</header>
 
-	<table id="persons"></table>
+		<table id="persons"></table>
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-	<script src="jquery.cookie.js"></script>
-	<script src="jquery.yaselect.min.js"></script>
-	<script src="underscore-min.js"></script>
-	<script src="main.js"></script>
-</body>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+		<script src="jquery.cookie.js"></script>
+		<script src="jquery.yaselect.min.js"></script>
+		<script src="underscore-min.js"></script>
+		<script src="main.js"></script>
+	</body>
+</html>

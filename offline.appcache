@@ -1,0 +1,21 @@
+CACHE MANIFEST
+
+# Build 2011-10-06
+
+CACHE:
+data/fredag.txt
+data/lordag.txt
+data/mandag.txt
+data/onsdag.txt
+data/sondag.txt
+data/tirsdag.txt
+data/torsdag.txt
+jquery.cookie.js
+jquery.yaselect.min.js
+underscore-min.js
+main.js
+style.css
+index.html
+
+NETWORK:
+http://*
