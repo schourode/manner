@@ -1,5 +1,6 @@
 07:30 - 08:00	Køkken: Mad
 08:00 - 09:00	Morgenmad: Alle
+09:00 - 13:00	Fraværende: Uncas
 09:00 - 09:30	Samling: Alle
 09:30 - 11:00	Administration: Luise, Morten
 09:30 - 11:00	Lejrnedbrydning: P-vagt
