@@ -1,8 +1,4 @@
 CACHE MANIFEST
-
-# Build 2011-10-11 14:52
-
-CACHE:
 data/fredag.txt
 data/lordag.txt
 data/mandag.txt
@@ -16,7 +12,5 @@ jquery.yaselect.min.js
 underscore-min.js
 main.js
 style.css
-index.html
-
-NETWORK:
-http://*
+/
+# b
