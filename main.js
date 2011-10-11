@@ -46,13 +46,21 @@ for (var i = 0; i < intervalCount; i++) {
     $('<th>').appendTo(headerRow).text(label);
 }
 
+function ajaxCallback (data, jqxhr) {
+    console.log('callback');
+    console.log(jqxhr);
+    console.log(jqxhr.responseText);
+    var persons = parseData(jqxhr.responseText);
+    renderTable(persons);
+}
+
 function loadData(file) {
     tbody.empty();
     
-    $.get('data/' + file + '.txt', function (data) {
-        var persons = parseData(data);
-        renderTable(persons);
-    });
+    console.log(file);
+    $.get('data/' + file + '.txt')
+        .sucess(ajaxCallback)
+        .error(ajaxCallback);
 }
 
 function parseData(data) {
