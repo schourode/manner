@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# Build 2011-10-06
+# Build 2011-10-11 13:43
 
 CACHE:
 data/fredag.txt
@@ -10,6 +10,7 @@ data/onsdag.txt
 data/sondag.txt
 data/tirsdag.txt
 data/torsdag.txt
+jquery-1.6.4.min.js
 jquery.cookie.js
 jquery.yaselect.min.js
 underscore-min.js
