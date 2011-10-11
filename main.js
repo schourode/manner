@@ -49,7 +49,6 @@ for (var i = 0; i < intervalCount; i++) {
 function loadData(file) {
     tbody.empty();
     
-    console.log(file);
     $.get('data/' + file + '.txt')
         .success(function (data) {
             var persons = parseData(data);
