@@ -12,10 +12,11 @@
 12:00 - 13:00	Køkken: Kim, Rie
 12:30 - 13:00	Frokost: Alle
 13:00 - 13:30	Velkomst: Alle
-13:30 - 16:00	Administration: Luise, Morten
+13:30 - 16:00	Administration: Morten
 13:30 - 16:00	Køkken: Mad
 13:30 - 16:00	Teltslagning: P-vagt, Jonathan
 13:30 - 16:00	Aktivitet-forberedelse: Christian, Mai, Malene, Margrethe, Michael
+14:00 - 19:30	Fraværende: Luise
 16:00 - 17:00	Teamets time: Alle
 17:00 - 18:00	Lejrplads: P-vagt
 17:00 - 18:00	Køkken: Mad, Maria, Uncas

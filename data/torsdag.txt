@@ -10,6 +10,7 @@
 09:30 - 16:00	Køkken: Mad
 12:00 - 13:30	Køkken: Luise, Rie
 12:30 - 13:00	Frokost: Alle
+14:00 - 19:30	Fraværende: Luise
 16:00 - 17:00	Teamets time: Alle
 17:00 - 18:00	Lejrplads: P-vagt
 17:00 - 18:00	Køkken: Mad
