@@ -2,7 +2,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
         'Barista': ['Christian','Ida','Jonathan','Julie','Jørn','Luise','Mai','Michael','Morten','Uncas'],
         'Guide': ['Christian','Kim','Malene','Margrethe','Maria'],
-        'P-vagt': ['Asti','Emil','J\u00f8rn','Rie','Stald'],
+        'P-vagt': ['Asti','Emil','Jørn','Rie','Stald'],
         'Mad': ['Anne','Kristine','Signe'],
         'Alle': ['Barista','Guide','P-vagt','Mad'],
         'Hejk': ['Uncas','Mai','Emil','Jonathan','Julie']
@@ -15,16 +15,18 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
         'Fraværende': '#999',
         'Hejk': '#c30',
         'Hovedbanegården': '#900',
-        'K\u00f8kken': '#0af',
+        'Køkken': '#0af',
         'Lejrbål': '#669',
-        'Natl\u00f8b': '#336',
+        'Natløb': '#336',
         'Nattevagt': '#333',
         'Opvask': '#0af',
         'Oprydning': '#633',
         'P-vagt': '#393',
         'P-møde': '#066',
         'Rådhuspladsen': '#c30',
-        'Settlers': '#336'
+        'Settlers': '#336',
+        'Tietgiensbroen': '#900',
+        'Østerport': '#900'
     };
 
 var personSelect = $('select[name="person"]'),
