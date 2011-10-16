@@ -3,9 +3,9 @@
 07:00 - 08:30	Vækning: Barista, Maria
 07:30 - 08:30	Morgenmad: Alle
 07:30 - 13:00	Fraværende: Margrethe
-08:30 - 09:00	Opvask: Rie, Stald
+08:30 - 09:00	Opvask: Asti, Stald
 08:30 - 13:00	Køkken: Mad
-08:30 - 11:00	Hejk (debriefing): Hejk, Barista, Maria
+08:30 - 11:00	Hejk (debriefing): Hejk, Barista, Maria, Rie
 09:00 - 11:00	Administration: Luise, Morten
 11:00 - 12:30	Hejk-oprydning: Hejk
 11:00 - 12:30	Havnerundfart: Barista, Maria
