@@ -6,15 +6,21 @@
 08:30 - 09:00	Opvask: Luise, Uncas
 09:00 - 09:30	Samling: Alle
 09:30 - 12:30	P-møde: Guide
-09:30 - 12:30	Administration: Luise, Morten
+09:30 - 12:00	Administration: Luise, Morten
 09:30 - 12:30	Cook-along-forberedelse: Jonathan, Kristine, Rie
 09:30 - 16:00	Køkken: Mad
-12:00 - 13:30	Køkken: Jørn, Stald
+09:30 - 12:30	Natløb-forberedelse: Emil, Uncas
+12:00 - 13:30	Køkken: Luise, Julie
+12:30 - 16:00	B&W: Christian, Michael, Uncas, Rie, Malene, Morten
 12:30 - 13:00	Frokost: Alle
+13:00 - 16:00	Bådbyggeri: Julie, Jonathan, Kim, Asti, Emil
+13:00 - 16:00	Giro 413: Jørn, Luise, Margrethe, Mai, Stald, Maria
 16:00 - 17:00	Teamets time: Alle
 17:00 - 18:00	Køkken: Mai, Michael, Morten
-17:00 - 23:00	Natløb: Emil, Jonathan, Malene, Margrethe
-17:00 - 21:00	Cook-along: Mad, P-vagt
+17:00 - 23:00	Natløb: Emil, Uncas, Malene, Margrethe
+18:00 - 21:00	Fraværende: Rie
+17:00 - 20:00	Cook-along: Jonathan, P-vagt
+17:00 - 21:00	Cook-along: Mad, Kim
 18:00 - 18:30	Aftensmad: Alle
 18:30 - 19:30	Opvask: Christian, Maria, Uncas
 20:00 - 21:00	P-café: Barista
