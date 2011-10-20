@@ -8,13 +8,14 @@
 09:30 - 12:30	Administration: Luise, Morten
 09:30 - 18:30	Køkken: Mad
 09:30 - 12:30	Nedbrydning: Barista, P-vagt
-12:00 - 13:00	Køkken: Asti, Jørn
+12:00 - 13:00	Køkken: Luise, Jørn
+12:00 - 18:30	Fraværende: Asti
 12:30 - 13:00	Frokost: Alle
 13:00 - 15:30	Evaluering: Barista
 13:00 - 16:00	Banket-forberedelse: Malene, Maria
 13:00 - 18:00	Lejrnedbrydning: P-vagt
 16:00 - 18:30	Reception: Malene, Michael
-16:00 - 18:30	Bademester: Maria
+16:00 - 18:30	Bademester: Maria, Kim
 17:00 - 18:30	Køkken: Julie, Luise
 17:00 - 18:30	Reception: Ida, Uncas
 18:30 - 23:00	Banket: Alle
