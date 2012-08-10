@@ -1,30 +1,22 @@
-07:00 - 13:00	Fraværende: Malene
-07:00 - 16:00	Fraværende: Ida
-07:00 - 08:30	Vækning: Barista, Maria
+07:00 - 07:30	Vækning: Alle
+07:30 - 09:00	Mad-ekspert: Mad
+07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
-07:30 - 13:00	Fraværende: Margrethe
-08:30 - 09:00	Opvask: Asti, Stald
-08:30 - 13:00	Køkken: Mad
-08:30 - 11:00	Hejk (debriefing): Hejk, Barista, Maria, Rie
+08:30 - 09:00	Opvask: 
+09:00 - 09:30	Morgensamling: Alle
+09:30 - 12:00	P-møde: P-møde
+09:30 - 12:00	Modulforberedelse: 
+09:30 - 16:00	Køkken: Køkken
 09:00 - 11:00	Administration: Luise, Morten
-11:00 - 12:30	Hejk-oprydning: Hejk
-11:00 - 12:30	Havnerundfart: Barista, Maria
-12:00 - 13:00	Køkken: Kim, Rie
+12:00 - 13:00	Køkken: 
 12:30 - 13:00	Frokost: Alle
-13:00 - 13:30	Velkomst: Alle
-13:30 - 16:00	Administration: Morten
-13:30 - 16:00	Køkken: Mad
-13:30 - 16:00	Teltslagning: P-vagt, Jonathan
-13:30 - 16:00	Aktivitet-forberedelse: Christian, Mai, Malene, Margrethe, Michael
-14:00 - 19:30	Fraværende: Luise
+13:00 - 16:00	Moduler: 
+15:00 - 16:00	Madkasser: Anne J, Kim, Mai
 16:00 - 17:00	Teamets time: Alle
-17:00 - 18:00	Lejrplads: P-vagt
-17:00 - 18:00	Køkken: Mad, Maria, Uncas
+17:00 - 19:00	Mad-ekspert: Mad
 18:00 - 18:30	Aftensmad: Alle
-18:30 - 19:30	Opvask: Ida, Julie
-18:30 - 20:00	Lejrplads: P-vagt
-18:30 - 21:00	Køkken: Mad
-20:00 - 21:00	P-café: Barista
-20:00 - 22:00	Lejrbål: Emil, Maria
-21:00 - 22:00	Lejrbål: Barista
-22:00 - 23:00	Nattevagt: Julie, Kim
+18:30 - 19:30	Opvask: 
+19:00 - 20:00	Lejrliv: Lejrliv
+20:00 - 21:00	P-café: Vejleder
+20:00 - 22:00	Lejrbål: 
+21:00 - 22:00	Lejrbål: Alle

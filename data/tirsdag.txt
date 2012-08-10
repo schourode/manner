@@ -1,29 +1,11 @@
-07:00 - 07:30	Køkken: Mad
 07:00 - 07:30	Vækning: Alle
-07:30 - 09:00	Lejrplads: P-vagt
+07:30 - 09:00	Mad-ekspert: Mad
+07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
-08:30 - 09:00	Opvask: Mai, Michael
-09:00 - 09:30	Samling: Alle
-09:30 - 12:30	Fraværende: Mai
-09:30 - 12:30	P-møde: Guide
-09:30 - 11:00	P-møde: Ida, Emil, Jonathan, Julie, Uncas
-09:30 - 12:30	Administration: Luise, Morten
-09:30 - 12:30	Aktivitets-forberedelser: Michael, Stald
-09:30 - 12:30	Settlers-forberedelse: Asti, Jørn, Rie
-09:30 - 16:00	Køkken: Mad
-11:00 - 12:30	Natløb-forberedelse: Emil, Uncas
-12:00 - 13:00	Køkken: Jonathan, Julie
-12:30 - 16:00	B&W: Christian, Michael, Uncas, Rie, Malene, Morten
+08:30 - 09:00	Opvask: 
+09:00 - 09:30	Morgensamling: Alle
+09:30 - 12:00	P-møde: P-møde
+09:30 - 16:00	Køkken: Køkken
+09:00 - 11:00	Administration: Luise, Morten
+12:00 - 13:00	Køkken: 
 12:30 - 13:00	Frokost: Alle
-13:00 - 15:00	Køkken: Emil
-13:00 - 16:00	Køkken: Ida
-13:00 - 16:00	Bådbyggeri: Julie, Jonathan, Kim, Asti, Emil
-13:00 - 16:00	Giro 413: Jørn, Luise, Margrethe, Mai, Stald, Maria
-16:00 - 17:00	Teamets time: Alle
-17:00 - 19:00	Settlers-forberedelse: Rie, Asti
-17:00 - 18:00	P-café: Barista
-17:00 - 19:30	Køkken: Mad, Malene, Maria
-18:00 - 18:30	Aftensmad: Alle
-19:00 - 22:00	Settlers: Alle
-22:00 - 22:30	PL: Barista
-22:00 - 23:00	Nattevagt: Margrethe, Emil

@@ -1,22 +1,21 @@
-07:00 - 23:00	Fraværende: Kristine
-07:00 - 08:00	Køkken: Mad
+07:00 - 08:00	Køkken: Køkken
 08:00 - 09:00	Morgenmad: Alle
-09:00 - 09:30	Opvask: Christian, Kim
+09:00 - 09:30	Opvask: 
 09:00 - 12:00	Administration: Luise, Morten
-09:00 - 12:00	Køkken: Margrethe
-09:00 - 18:00	Køkken: Mad
-09:00 - 13:00	Hejk-forberedelser: Hejk
-09:00 - 12:00	Start-forberedelse: Ida, Jørn
+09:00 - 13:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
 11:00 - 11:30	Frokost: Alle
-12:00 - 13:00	Østerport: Maria, Malene
-12:00 - 13:00	Tietgiensbroen: Stald, Margrethe
-12:00 - 13:00	Hovedbanegården: Asti, Ida, Jørn, Morten, Luise
-12:00 - 13:00	Rådhuspladsen: Alle
-13:00 - 23:00	Fraværende: Malene
-13:00 - 14:00	P-velkomst: Barista
-14:00 - 18:00	Køkken: Asti, Morten
-14:00 - 22:00	Hejk-HQ: Hejk
-18:00 - 20:00	Restaurant: Mad
+12:00 - 13:00	Hovedbanegården: 
+13:00 - 13:30	Velkomst: Alle
+13:30 - 14:30	Teambuilding: Vejleder
+14:30 - 16:00	Lejslagning: Lejrliv, Jonathan
+15:00 - 16:00	Madkasser: Anne J, Julie, Mikkel
+16:00 - 17:00	Teamets time: Alle
+17:00 - 19:00	Mad-ekspert: Mad
+17:00 - 20:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
 18:00 - 18:30	Aftensmad: Alle
-18:30 - 19:30	Opvask: Jørn, Maria
-22:00 - 23:00	Godnat: Barista
+19:00 - 20:00	Lejrliv: Lejrliv
+18:30 - 19:30	Opvask: 
+20:00 - 21:00	P-café: Vejleder
+18:30 - 23:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
+21:00 - 22:00	Lejrbål: Alle
+22:00 - 23:00	Natløb: Alle
