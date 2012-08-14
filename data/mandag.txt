@@ -2,21 +2,22 @@
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
-08:30 - 09:00	Opvask: 
+08:30 - 09:00	Opvask: -
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:00	P-møde: P-møde
 09:30 - 12:00	Modulforberedelse: 
 09:30 - 16:00	Køkken: Køkken
 09:00 - 11:00	Administration: Luise, Morten
-12:00 - 13:00	Køkken: 
+12:00 - 13:00	Køkken: -
 12:30 - 13:00	Frokost: Alle
-13:00 - 16:00	Moduler: 
+13:00 - 16:00	Moduler: -
 15:00 - 16:00	Madkasser: Anne J, Kim, Mai
 16:00 - 17:00	Teamets time: Alle
 17:00 - 19:00	Mad-ekspert: Mad
 18:00 - 18:30	Aftensmad: Alle
-18:30 - 19:30	Opvask: 
+18:30 - 19:30	Opvask: -
 19:00 - 20:00	Lejrliv: Lejrliv
+19:30 - 20:00	P-pakning: Ida
 20:00 - 21:00	P-café: Vejleder
 20:00 - 22:00	Lejrbål: 
 21:00 - 22:00	Lejrbål: Alle
