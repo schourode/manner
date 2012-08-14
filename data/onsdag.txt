@@ -1,0 +1,11 @@
+07:00 - 07:30	Vækning: Alle
+07:30 - 09:00	Mad-ekspert: Mad
+07:30 - 09:00	Lejrliv: Lejrliv
+07:30 - 08:30	Morgenmad: Alle
+08:30 - 09:00	Opvask: 
+09:00 - 09:30	Morgensamling: Alle
+09:30 - 12:00	P-møde: P-møde
+09:30 - 16:00	Køkken: Køkken
+09:00 - 11:00	Administration: Luise, Morten
+12:00 - 13:00	Køkken: 
+12:30 - 13:00	Frokost: Alle
