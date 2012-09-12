@@ -3,6 +3,7 @@
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
 08:30 - 09:00	Opvask: -
+08:30 - 13:30	Fraværende: Asti
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:00	P-møde: P-møde
 09:30 - 16:00	Køkken: Køkken

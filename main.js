@@ -1,7 +1,7 @@
 var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
         'Vejleder': ['Ida','Jonathan','Luise','Uncas','Mai','Maria','Jørn','Morten','Tolstrup','Asti','Price','Rie'],
-        'P-møde': ['Asti','Kim','Margrethe','Rie','Signe J','Kinslev','Mikkel','Tolstrup','Jørn','Michael','Stald','Julie'],
+        'P-møde': ['Asti','Kim','Margrethe','Rie','Møllenberg','Kinslev','Mikkel','Tolstrup','Jørn','Michael','Stald','Julie'],
         'Lejrliv': ['Stald','Kinslev','Price','Uncas','Margrethe','Møllenberg'],
         'Mad': ['Michael','Julie','Anne J','Kim','Mikkel','Mai'],
         'Køkken': ['Anne F','Mortensen'],
