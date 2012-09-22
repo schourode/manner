@@ -1,4 +1,1 @@
 AddType text/cache-manifest appcache
-
-RewriteEngine On
-RewriteRule ^offline\.appcache$ offline.appcache.rem
