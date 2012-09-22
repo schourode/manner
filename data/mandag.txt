@@ -11,12 +11,11 @@
 12:00 - 13:00	Køkken: -
 12:30 - 13:00	Frokost: Alle
 13:00 - 16:30   Grej: Rie, Tolstrup
-13:00 - 16:30   Ild: Price, Kinslev, Margrethe
+13:00 - 16:30   Ild: Price, Margrethe
 13:00 - 16:30   Leg & spil & GPS: Møllenberg, Julie
-13:00 - 16:30   Vandpassage: Michael, Morten
+13:00 - 16:30   Vandpassage: Michael, Morten, Kinslev
 13:00 - 16:30   Madlavning: Kim, Stald, Asti
 13:00 - 16:30   Byløb: Ida, Maria
-13:00 - 16:30   Adventure race: Jonathan, Jørn, Uncas
 16:30 - 17:30	Teamets time: Alle
 17:30 - 18:30	Køkken: Køkken
 17:30 - 18:30   Moduler: Rie, Tolstrup, Price, Kinslev, Margrethe, Møllenberg, Julie, Michael, Morten, Kim, Stald, Asti, Ida, Maria, Jonathan, Jørn, Uncas
@@ -26,6 +25,6 @@
 19:30 - 20:30	Opvask: -
 19:30 - 20:00	P-pakning: Ida
 20:00 - 21:00	P-café: Vejleder
-20:00 - 22:00	Lejrbål: 
+20:00 - 22:00	Lejrbål: Michael, Kinslev, Margrethe
 21:00 - 22:00	Lejrbål: Alle
 22:00 - 23:00   Nattevagt: -

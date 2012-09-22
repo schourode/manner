@@ -4,7 +4,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
         'P-møde': ['Asti','Kim','Margrethe','Rie','Møllenberg','Kinslev','Mikkel','Tolstrup','Jørn','Michael','Stald','Julie'],
         'Lejrliv': ['Stald','Kinslev','Price','Uncas','Margrethe','Møllenberg'],
         'Mad': ['Michael','Julie','Anne J','Kim','Mikkel','Mai'],
-        'Køkken': ['Anne F','Mortensen'],
+        'Køkken': ['Anne HF','Signe'],
         'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken']
     },
     colors = {

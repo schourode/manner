@@ -4,7 +4,8 @@
 09:00 - 12:00	Administration: Luise, Morten
 09:00 - 13:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
 11:00 - 11:30	Frokost: Alle
-12:00 - 13:00	Hovedbanegården: 
+12:00 - 13:00	Hovedbanegården: -
+12:00 - 13:00	Check-in: -
 13:00 - 13:30	Velkomst: Alle
 13:30 - 14:30	Teambuilding: Vejleder
 14:30 - 16:00	Lejslagning: Lejrliv, Jonathan
@@ -17,6 +18,6 @@
 18:30 - 19:30	Opvask: -
 19:30 - 20:00	P-pakning: Ida
 20:00 - 21:00	P-café: Vejleder
-18:30 - 23:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
-21:00 - 22:00	Lejrbål: Alle
-22:00 - 23:00	Natløb: Alle
+21:00 - 22:00	Lejrbål: -
+21:00 - 22:00	Køkken: Køkken
+21:00 - 23:00	Natløb: Alle
