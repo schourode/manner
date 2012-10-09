@@ -1,23 +1,29 @@
-07:00 - 08:00	Køkken: Køkken
-08:00 - 09:00	Morgenmad: Alle
-09:00 - 09:30	Opvask: -
-09:00 - 12:00	Administration: Luise, Morten
-09:00 - 13:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
-11:00 - 11:30	Frokost: Alle
-12:00 - 13:00	Hovedbanegården: -
-12:00 - 13:00	Check-in: -
-13:00 - 13:30	Velkomst: Alle
-13:30 - 14:30	Teambuilding: Vejleder
-14:30 - 16:00	Lejslagning: Lejrliv, Jonathan
-15:00 - 16:00	Madkasser: Anne J, Julie, Mikkel
+07:00 - 13:30	Køkken: Køkken
+08:00 - 09:00	Morgenmad: Alle, Rie
+09:00 - 09:30	Opvask: Jørn, Asti
+09:00 - 11:30	Administration: Luise, Morten
+09:00 - 11:30	Natløb: Price, Ida, Uncas, Tolle, Maria
+09:00 - 23:00	Natløb: Rie
+09:00 - 11:30	Køkken: Anne J, Katrine
+11:30 - 12:00	Frokost: Alle
+12:00 - 13:30	Hovedbanegården: Vejleder
+12:00 - 13:30	Rengøring: Kim, Stald
+12:00 - 13:30	Check-in: Michael, Margrethe, Emil
+13:30 - 14:00	Velkomst: Alle
+13:30 - 15:00	Teambuilding: Vejleder
+14:00 - 16:00	Køkken: Køkken
+15:00 - 16:00	Lejslagning: Lejrliv, Jonathan
+15:00 - 16:00	Madkasser: Anne J, Katrine
 16:00 - 17:00	Teamets time: Alle
+17:00 - 18:00	Køkken: Køkken
 17:00 - 19:00	Mad-ekspert: Mad
-17:00 - 20:00	Natløb: Price, Rie, Ida, Uncas, Tolstrup, Maria
+17:00 - 20:00	Natløb: Ida, Tolle, Maria
 18:00 - 18:30	Aftensmad: Alle
 19:00 - 20:00	Lejrliv: Lejrliv
-18:30 - 19:30	Opvask: -
+18:30 - 19:30	Opvask: Jonathan, Luise
+18:30 - 23:00	Natløb: Køkken
 19:30 - 20:00	P-pakning: Ida
 20:00 - 21:00	P-café: Vejleder
-21:00 - 22:00	Lejrbål: -
-21:00 - 22:00	Køkken: Køkken
+20:00 - 21:30	Lejrbål: Katrine, Kim
+21:00 - 23:00	Køkken: Anne J
 21:00 - 23:00	Natløb: Alle

@@ -1,12 +1,24 @@
+07:00 - 12:30	Køkken: Køkken, Anne J, Katrine
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
-08:30 - 09:00	Opvask: -
 09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:00	P-møde: P-møde
-09:30 - 16:00	Køkken: Køkken
-09:00 - 11:00	Administration: Luise, Morten
+09:30 - 10:00	Opvask: Mai, Uncas
+09:30 - 12:30	P-møde: P-møde
+09:30 - 11:00	Administration: Luise, Morten
+09:30 - 12:30	24 forberedelser: Price, Jonathan, Morten
 12:00 - 16:30   Fraværende: Margrethe
-12:00 - 13:00	Køkken: -
 12:30 - 13:00	Frokost: Alle
+13:00 - 14:30	Rengøring: Jørn, Ida
+13:00 - 17:00	Køkken: Anne J, Katrine, Emil, Luise
+13:00 - 18:30	Køkken: Køkken
+13:00 - 14:30	24 start: Asti, Maria, Morten
+13:00 - 22:00	24 post: Tolle, Price, Michael
+13:00 - 20:00	24 mad: Anne J, Katrine
+14:30 - 18:30	Administration: Maria
+17:00 - 20:00	24 mad: Asti, Emil, Ida, Luise, Kim, Stald
+18:30 - 19:30	Aftensmad: Alle
+19:30 - 22:00	24 post: Morten, Køkken
+19:30 - 21:00	Opvask: Uncas, Maria, Margrethe
+22:00 - 23:00	Godnat: Vejleder

@@ -1,30 +1,31 @@
+07:00 - 16:30	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
-08:30 - 09:00	Opvask: -
+08:30 - 09:00	Opvask: Morten, Luise
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:30	P-møde: P-møde
 09:30 - 11:00	Administration: Luise, Morten
-09:30 - 12:30   Modulforberedelse: Rie, Tolstrup, Price, Kinslev, Margrethe, Møllenberg, Julie, Michael, Morten, Kim, Stald, Asti, Ida, Maria, Jonathan, Jørn, Uncas
-09:30 - 16:30	Køkken: Køkken
-12:00 - 13:00	Køkken: -
-12:30 - 13:00	Frokost: Alle
-13:00 - 16:30   Grej: Rie, Tolstrup
+09:30 - 16:30	Køkken: Anne J, Katrine
+11:00 - 12:30   Modulforberedelse: Rie, Tolle, Price, Emil, Margrethe, Julie, Michael, Kim, Stald, Asti, Ida, Maria, Mai
+11:00 - 12:30	Rengøring: Morten, Uncas
+12:30 - 13:00	Frokost: Alle, Julie
+13:00 - 16:30   Grej: Rie, Tolle
 13:00 - 16:30   Ild: Price, Margrethe
-13:00 - 16:30   Leg & spil & GPS: Møllenberg, Julie
-13:00 - 16:30   Vandpassage: Michael, Morten, Kinslev
+13:00 - 16:30   Leg & spil & GPS: Julie
+13:00 - 16:30   Vandpassage: Michael, Emil
 13:00 - 16:30   Madlavning: Kim, Stald, Asti
-13:00 - 16:30   Byløb: Ida, Maria
+13:00 - 16:30   Byløb: Ida, Maria, Mai
 16:30 - 17:30	Teamets time: Alle
 17:30 - 18:30	Køkken: Køkken
-17:30 - 18:30   Moduler: Rie, Tolstrup, Price, Kinslev, Margrethe, Møllenberg, Julie, Michael, Morten, Kim, Stald, Asti, Ida, Maria, Jonathan, Jørn, Uncas
-17:30 - 18:30   Madkasser: Mad
+17:30 - 18:30   Moduler: Rie, Tolle, Price, Emil, Margrethe, Julie, Michael, Kim, Stald, Asti, Ida, Maria, Mai
+17:30 - 18:30   Madkasser: Anne J, Katrine
+17:30 - 18:30	Køkken: Jonathan, Jørn, Uncas, Morten, Luise
 18:30 - 20:00	Mad-ekspert: Mad
 18:30 - 19:30	Aftensmad: Alle
-19:30 - 20:30	Opvask: -
+19:30 - 20:30	Opvask: Stald
 19:30 - 20:00	P-pakning: Ida
 20:00 - 21:00	P-café: Vejleder
-20:00 - 22:00	Lejrbål: Michael, Kinslev, Margrethe
+20:00 - 22:00	Lejrbål: Michael, Emil, Margrethe
 21:00 - 22:00	Lejrbål: Alle
-22:00 - 23:00   Nattevagt: -

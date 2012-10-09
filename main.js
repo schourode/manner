@@ -1,9 +1,9 @@
 var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
-        'Vejleder': ['Ida','Jonathan','Luise','Uncas','Mai','Maria','Jørn','Morten','Tolstrup','Asti','Price','Rie'],
-        'P-møde': ['Asti','Kim','Margrethe','Rie','Møllenberg','Kinslev','Mikkel','Tolstrup','Jørn','Michael','Stald','Julie'],
-        'Lejrliv': ['Stald','Kinslev','Price','Uncas','Margrethe','Møllenberg'],
-        'Mad': ['Michael','Julie','Anne J','Kim','Mikkel','Mai'],
+        'Vejleder': ['Ida','Jonathan','Luise','Uncas','Mai','Maria','Jørn','Morten','Tolle','Asti','Price'],
+        'P-møde': ['Asti','Kim','Margrethe','Emil','Tolle','Jørn','Michael','Stald','Maria','Ida'],
+        'Lejrliv': ['Stald','Emil','Price','Uncas','Margrethe'],
+        'Mad': ['Michael','Anne J','Kim','Katrine','Mai'],
         'Køkken': ['Anne HF','Signe'],
         'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken']
     },
@@ -27,6 +27,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
         'Opvask': '#0af',
         'Nedbrydning': '#633',
         'P-møde': '#066',
+        'Rengøring': '#9c3',
         'Settlers': '#336',
         'Teamets time' : '#f39',
         'Vejleder': '#909'
