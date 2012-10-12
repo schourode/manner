@@ -1,9 +1,11 @@
 07:00 - 16:30	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
+07:30 - 13:00	Fraværende: Jonathan
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
 08:30 - 09:00	Opvask: Morten, Luise
+09:00 - 11:30	Fraværende: Mai
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:30	P-møde: P-møde
 09:30 - 11:00	Administration: Luise, Morten
@@ -17,6 +19,7 @@
 13:00 - 16:30   Vandpassage: Michael, Emil
 13:00 - 16:30   Madlavning: Kim, Stald, Asti
 13:00 - 16:30   Byløb: Ida, Maria, Mai
+15:30 - 18:30	Fraværende: Jonathan
 16:30 - 17:30	Teamets time: Alle
 17:30 - 18:30	Køkken: Køkken
 17:30 - 18:30   Moduler: Rie, Tolle, Price, Emil, Margrethe, Julie, Michael, Kim, Stald, Asti, Ida, Maria, Mai
