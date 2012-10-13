@@ -184,3 +184,7 @@ personSelect.change(function () {
 $('header select').yaselect();
 
 $('body').addClass('ready');
+
+window.applicationCache.addEventListener('updateready', function () {
+    window.applicationCache.swapCache();
+}, false);
