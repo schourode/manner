@@ -2,8 +2,7 @@
 08:00 - 09:00	Morgenmad: Alle, Rie
 09:00 - 09:30	Opvask: Jørn, Asti
 09:00 - 11:30	Administration: Luise, Morten
-09:00 - 11:30	Natløb: Price, Ida, Uncas, Tolle, Maria
-09:00 - 23:00	Natløb: Rie
+09:00 - 11:30	Natløb: Price, Ida, Uncas, Tolle, Maria, Rie
 09:00 - 11:30	Køkken: Anne J, Katrine
 11:30 - 12:00	Frokost: Alle
 12:00 - 13:30	Hovedbanegården: Vejleder
@@ -21,7 +20,7 @@
 18:00 - 18:30	Aftensmad: Alle
 19:00 - 20:00	Lejrliv: Lejrliv
 18:30 - 19:30	Opvask: Jonathan, Luise
-18:30 - 23:00	Natløb: Køkken
+18:30 - 23:00	Natløb: Rie, Køkken
 19:30 - 20:00	P-pakning: Ida
 20:00 - 21:00	P-café: Vejleder
 20:00 - 21:30	Lejrbål: Katrine, Kim

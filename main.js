@@ -5,7 +5,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
         'Lejrliv': ['Stald','Emil','Price','Uncas','Margrethe'],
         'Mad': ['Michael','Anne J','Kim','Katrine','Mai'],
         'Køkken': ['Anne HF','Signe'],
-        'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken']
+        'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken','Rie']
     },
     colors = {
         'Administration' : '#666',
