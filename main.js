@@ -193,3 +193,7 @@ window.applicationCache.addEventListener('updateready', function () {
     window.applicationCache.swapCache();
     window.location.reload();
 }, false);
+
+window.addEventListener('orientationchange', function() {
+    alert('HOLY ROTATING SCREENS BATMAN:' + window.orientation + " " + screen.width);
+}, false);
