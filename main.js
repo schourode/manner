@@ -191,4 +191,5 @@ $('body').addClass('ready');
 
 window.applicationCache.addEventListener('updateready', function () {
     window.applicationCache.swapCache();
+    window.location.reload();
 }, false);
