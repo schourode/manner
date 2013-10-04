@@ -1,6 +1,6 @@
 07:00 - 16:30	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
-07:30 - 13:00	Fraværende: Jonathan
+08:30 - 13:00	Fraværende: Jonathan
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
