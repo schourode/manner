@@ -13,7 +13,7 @@ header {
 
 header h1 {
   padding-right: .25em;
-  font-size: xx-large;
+  font-size: 200%;
 }
 
 header * {
@@ -25,7 +25,7 @@ header .yaselect-anchor:first-of-type {
 }
 
 header .yaselect-anchor, header select {
-  font-size: xx-large;
+  font-size: 200%;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -37,10 +37,10 @@ header .yaselect-current:after {
 }
 
 table {
-  margin-top: 4em;
+  margin-top: 2em;
   border-collapse: collapse;
   table-layout: fixed;
-  font-size: small;
+  font-size: 80%;
   width: 100%;
 }
 
@@ -76,6 +76,21 @@ tbody td {
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) and (orientation: landscape) {
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-size: 75%;
+  }
+
+  tbody th, tbody td {
+    padding: .25em;
+  }
 }
 
 @media only screen and (max-width: 600px) and (orientation: portrait) {
