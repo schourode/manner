@@ -85,7 +85,8 @@ tbody td {
   }
 
   body {
-    font-size: 30%;
+    font-size: 40%;
+    -webkit-text-size-adjust: none;
   }
 
   tbody th, tbody td {
