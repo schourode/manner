@@ -71,6 +71,8 @@ function parseData(data) {
         persons = {};
     
     for (var i in lines) {
+        if ($.trim(lines[i]).length === 0) continue;
+
         var tokens = lines[i].match(parser),
             entry = {
                 when: tokens[1],
