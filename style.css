@@ -121,7 +121,7 @@ tbody td {
   }
   
   tbody td.now {
-    background: -webkit-gradient(linear, left top, left bottom, from(#058cf5), to(#015de6)) !important;
+    background: #058cf5 !important;
     color: #fff;
   }
 
@@ -150,7 +150,7 @@ tbody td {
   }
   
   header {
-    background: -webkit-gradient(linear, left top, left bottom, from(#666), to(#444)) !important;
+    background: #666 !important;
     overflow: hidden;
     color: #fff;
   }
