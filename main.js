@@ -1,11 +1,11 @@
 var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
-        'Vejleder': ['Ida','Jonathan','Luise','Uncas','Mai','Maria','Jørn','Morten','Tolle','Asti','Price'],
-        'P-møde': ['Asti','Kim','Margrethe','Emil','Tolle','Jørn','Michael','Stald','Maria','Ida'],
-        'Lejrliv': ['Stald','Emil','Price','Uncas','Margrethe'],
-        'Mad': ['Michael','Anne J','Kim','Katrine','Mai'],
-        'Køkken': ['Anne HF','Signe'],
-        'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken','Rie']
+        'Vejleder': ['Morten','Gitte','Luise','Jesper','Jonathan','Mai','Kirsten','Ulrik','Mikkel','Uncas','Emil','Ida','Maria'],
+        'P-møde': ['Stald','Gitte','Margrethe','Jesper','Kathrine','Mai','Jonathan','Kirsten','Kim','Mikkel','Asti','Emil','Ida','Maria'],
+        'Lejrliv': ['Stald','Margrethe','Jonathan','Ulrik','Uncas','Emil'],
+        'Mad': ['Morten','Luise','Kathrine','Kim','Asti','Julie'],
+        'Køkken': ['Michael Bak','Anne'],
+        'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken']
     },
     colors = {
         'Administration' : '#666',
@@ -13,7 +13,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
         'Banket': '#036',
         'Fraværende': '#999',
         'Frokost': '#900',
-        'Hejk': '#c30',
+        '24 timer': '#c30',
         'Køkken': '#0af',
         'Lejrbål': '#669',
         'Lejrliv': '#393',
