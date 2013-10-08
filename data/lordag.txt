@@ -1,13 +1,8 @@
-07:00 - 07:30	Vækning: Alle
-07:30 - 09:00	Mad-ekspert: Mad
-07:30 - 09:00	Lejrliv: Lejrliv
-07:30 - 08:30	Morgenmad: Alle
-08:30 - 09:00	Opvask: -
-08:30 - 13:30	Fraværende: Asti
+08:00 - 09:00	Køkken: Køkken
+07:45 - 08:00	Vækningsforberedelse: Mikkel, Maria
+08:00 - 08:30	Vækning: Alle
+08:30 - 09:00	Morgenmad: Alle
 09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:00	P-møde: P-møde
-09:30 - 12:30	Køkken: Køkken
-09:00 - 11:00	Administration: Luise, Morten
-09:30 - 18:00	Køkken: Rie
-12:30 - 13:00	Frokost: Alle
-18:00 - 23:00	Teambanket: Alle
+09:30 - 11:00	Nedbrydning: Lejrliv
+11:00 - 12:00	Afslutning: Alle
+12:00 - 23:59	Oprydning => bad & bajere: Alle
