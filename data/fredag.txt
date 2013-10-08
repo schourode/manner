@@ -1,1 +1,15 @@
-15:00 - 17:00   Fredagsøl: Alle
+06:00 - 12:00	Fraværende: Maria
+06:45 - 07:00	Vækningsforberedelse: Kirsten, Jesper
+07:00 - 19:30	Køkken: Køkken
+07:00 - 07:30	Vækning: Alle
+07:30 - 09:00	Mad-ekspert: Mad
+07:30 - 09:00	Lejrliv: Lejrliv
+07:30 - 08:30	Morgenmad: Alle
+09:00 - 09:30	Morgensamling: Alle
+09:30 - 12:30	P-møde: P-møde
+10:00 - 15:00	Fraværende: Mai
+12:30 - 13:00	Frokost: Alle
+13:00 - 19:00	Nedbrydning: Lejrliv
+13:00 - 19:00	Banketforberedelse: Julie, Michael, Anne, Morten, Gitte, Luise, Jesper, Mai, Kirsten, Mikkel, Ida, Maria, Katrine, Margrethe
+15:00 - 19:00	Bademester: Asti
+19:00 - 23:59	Banket: Alle
