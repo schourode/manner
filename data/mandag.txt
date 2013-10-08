@@ -1,33 +1,24 @@
-07:00 - 16:30	Køkken: Køkken
+06:00 - 17:30	Fraværende: Ida
+06:45 - 07:00	Vækningsforberedelse: Emil, Gitte
+07:00 - 19:30	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
 07:30 - 08:30	Morgenmad: Alle
-08:30 - 13:00	Fraværende: Jonathan
-08:30 - 09:00	Opvask: Morten, Luise
-09:00 - 11:30	Fraværende: Mai
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:30	P-møde: P-møde
-09:30 - 11:00	Administration: Luise, Morten
-09:30 - 16:30	Køkken: Anne J, Katrine
-11:00 - 12:30   Modulforberedelse: Rie, Tolle, Price, Emil, Margrethe, Michael, Kim, Stald, Asti, Ida, Maria, Mai
-11:00 - 12:30	Rengøring: Morten, Uncas
+09:30 - 11:00	Administration: Luise, Morten, Jonathan
+10:00 - 12.30	Modulforberedelse:
+11:30 - 12:30	Madkasser: Julie, Jonathan
 12:30 - 13:00	Frokost: Alle
-13:00 - 16:30   Grej: Rie, Tolle
-13:00 - 16:30   Ild: Price, Margrethe
-13:00 - 16:30   Vandpassage: Michael, Emil
-13:00 - 16:30   Madlavning: Kim, Stald, Asti
-13:00 - 16:30   Byløb: Ida, Maria, Mai
-15:30 - 18:30	Fraværende: Jonathan
-16:30 - 17:30	Teamets time: Alle
-17:30 - 18:30	Køkken: Køkken
-17:30 - 18:30   Moduler: Rie, Tolle, Price, Emil, Margrethe, Michael, Kim, Stald, Asti, Ida, Maria, Mai
-17:30 - 18:30   Madkasser: Anne J, Katrine
-17:30 - 18:30	Køkken: Jonathan, Jørn, Uncas, Morten, Luise
-18:30 - 20:00	Mad-ekspert: Mad
+13:00 - 16:00	Modul:
+16:00 - 17:00	Teamets time: Alle
+17:00 - 20:00	Mad-ekspert: Mad
+17:00 - 20:00	Lejrliv: Lejrliv
+17:30 - 22:30	Fraværende: Jesper
 18:30 - 19:30	Aftensmad: Alle
-19:30 - 20:30	Opvask: Stald
-19:30 - 20:00	P-pakning: Ida
+19:30 - 20:00	Opvask: Kathrine, Asti
+19:30 - 21:00	Aftenaktivitetsforberedelse: Mikkel, Kim, Morten
 20:00 - 21:00	P-café: Vejleder
-20:00 - 22:00	Lejrbål: Michael, Emil, Margrethe
-21:00 - 22:00	Lejrbål: Alle
+21:00 - 22.30	Aftenaktivitet: Morten, Mikkel, Kim, Anne, Michael, Jesper, Uncas, Ida, Maria, Jonathan, Luise, Ulrik, Emil, Julie, Kirsten
+22:30 - 23:59	Nattevagt: Michael, Maria
