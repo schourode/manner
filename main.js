@@ -44,7 +44,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
 	'P-møde': '#066',
         'Rengøring': '#9c3',
         'Teamets time' : '#f39',
-	'Vejleder': '#909'
+	'Vejleder': '#909',
 	'Velkomst': '#f39',
 	'Værdier': '#f39',
 	'Vækning': '#f39',
