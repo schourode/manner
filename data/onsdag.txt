@@ -1,19 +1,14 @@
-07:00 - 15:00	Fraværende: Rie
-07:00 - 09:00	Vækning: Alle
-09:00 - 22:30	Settlers: Price, Rie, Emil
-09:00 - 15:00	Gameshow: Michael, Margrethe, Jonathan
-09:00 - 13:00	Køkken: Køkken, Anne J, Katrine
-09:00 - 11:00	Administration: Luise
-09:00 - 12:30	Administration: Morten
-10:30 - 12:30	Administration: Jørn
-11:00 - 12:30	Rengøring: Asti, Tolle
+06:00 - 15:00	Fraværende: Ida
+07:00 - 19:30	Køkken: Køkken
 12:30 - 13:00	Frokost: Alle
-13:00 - 15:00	Gameshow: Anne J, Katrine, Uncas, Stald, Maria, Jørn, Luise, Morten, Emil, Køkken
-15:00 - 16:00	P-café: Vejleder
-15:00 - 16:00	Madkasser: Anne J, Katrine
-16:00 - 17:00	Teamets time: Alle
-17:00 - 19:00	Mad-ekspert: Mad
-17:00 - 19:00	Lejrliv: Lejrliv
-18:00 - 19:00	Aftensmad: Alle
-19:00 - 20:00	Opvask: Tolle, Ida
-19:00 - 22:30	Settlers: Alle
+13:00 - 16:00	Værdier: Vejleder
+13:00 - 23:59	Fraværende: Maria
+16:00 - 17:00	P-café: Vejleder
+16:00 - 17:00	Madkasser: Julie, Kim
+17:00 - 18:00	Teamets time: Alle
+18:00 - 20:00	Natløbsforberedelse: Mikkel, Kirsten, Gitte, Morten
+18:00 - 20:00	Lejrliv: Lejrliv
+18:00 - 20:00	Madekspert: Mad
+18:30 - 19:30	Aftensmad: Alle
+19:30 - 20:00	Opvask: Luise, Jesper
+20:00 - 23:59	Natløb: Alle
