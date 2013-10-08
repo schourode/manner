@@ -48,7 +48,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
 	    'Velkomst': '#f39',
 	    'Værdier': '#f39',
 	    'Vækning': '#f39',
-	    'Vækningsforberedelse': '#f39',
+	    'Vækningsforberedelse': '#f39'
     };
 
 var personSelect = $('select[name="person"]'),
