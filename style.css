@@ -30,7 +30,7 @@ header .yaselect-anchor, header select {
 }
 
 header select {
-  font-size: 130%;
+  font-size: 100%;
 }
 
 header .yaselect-current:after {
