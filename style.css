@@ -29,6 +29,10 @@ header .yaselect-anchor, header select {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+header select {
+  font-size: 130%;
+}
+
 header .yaselect-current:after {
   content: '▼';
   color: #999;
