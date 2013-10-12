@@ -12,7 +12,7 @@
 10:00 - 15:00	Fraværende: Mai
 12:30 - 13:00	Frokost: Alle
 13:00 - 19:00	Nedbrydning: Lejrliv
-13:00 - 19:00	Forb. Banket: Julie, Michael, Anne, Morten, Gitte, Luise, Jesper, Mai, Kirsten, Mikkel, Ida, Maria, Margrethe, Kim
 15:00 - 19:00	Bademester: Asti
+13:00 - 19:00	Forb. Banket: Julie, Michael, Anne, Morten, Gitte, Luise, Jesper, Mai, Kirsten, Mikkel, Ida, Maria, Margrethe, Kim, Asti
 22:00 - 22:59 Nattevagt: P-møde
 19:00 - 23:59	Banket: Alle
