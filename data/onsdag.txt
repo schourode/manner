@@ -1,5 +1,7 @@
 06:00 - 15:00	Fraværende: Ida
 07:00 - 19:30	Køkken: Køkken
+08:00 - 09:00 Morgenmad: Alle
+09:00 - 12:30 24 timer: Kirsten, Maria
 12:30 - 13:00	Frokost: Alle
 12:00 - 22:59	Fraværende: Maria
 13:00 - 16:00	Værdier: Vejleder
