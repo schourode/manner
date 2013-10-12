@@ -10,6 +10,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     colors = {
     	'24 timer': '#c30',
 	'Forb. 24 timer': '#c30',
+	'HQ 24 timer': '#c30',
 	'Administration' : '#666',
 	'Afslutning': '#f39',
 	'Aftenaktivitet': '#336',
