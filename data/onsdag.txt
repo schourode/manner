@@ -1,5 +1,6 @@
 06:00 - 15:00	Fraværende: Ida
 07:00 - 08:00 Vækning: Vejleder
+07:00 - 08:00 24 timer: Alle
 07:00 - 19:30	Køkken: Køkken
 08:00 - 09:00 Morgenmad: Alle
 09:00 - 14:00 Fraværende: Mai
