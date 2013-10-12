@@ -1,8 +1,8 @@
 06:00 - 15:00	Fraværende: Ida
 07:00 - 19:30	Køkken: Køkken
 12:30 - 13:00	Frokost: Alle
+12:00 - 22:59	Fraværende: Maria
 13:00 - 16:00	Værdier: Vejleder
-13:00 - 23:59	Fraværende: Maria
 16:00 - 17:00	P-café: Vejleder
 16:00 - 17:00	Madkasser: Julie, Kim
 17:00 - 18:00	Teamets time: Alle
@@ -11,4 +11,4 @@
 18:00 - 20:00	Madekspert: Mad
 18:30 - 19:30	Aftensmad: Alle
 19:30 - 20:00	Opvask: Luise, Jesper
-20:00 - 23:59	Natløb: Alle
+20:00 - 22:59	Natløb: Alle
