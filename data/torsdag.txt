@@ -1,5 +1,5 @@
 06:00 - 23:59	Fraværende: Maria
-06:45 - 07:00	Vækningsforberedelse: Morten, Mai
+06:45 - 07:00	Forb. Vækning: Morten, Mai
 07:00 - 19:30	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Mad-ekspert: Mad
@@ -7,14 +7,14 @@
 07:30 - 08:30	Morgenmad: Alle
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:30	P-møde: P-møde
-09:30 - 12:30	Gameshowforberedelse: Uncas, Ulrik, Julie
+09:30 - 12:30	Forb. Gameshow: Uncas, Ulrik, Julie
 09:30 - 11:00	Administration: Luise, Morten, Jonathan
 12:30 - 13:00	Frokost: Alle
 13:00 - 15:00	Gameshow: Morten, Luise, Gitte, Jonathan, Mai, Kirsten, Ulrik, Mikkel, Uncas, Emil, Ida, Stald, Margrethe, Katrine, Kim, Asti, Michael, Anne
-13:00 - 15:00	Madaktivitetsforberedelse: Julie, Jesper
+13:00 - 15:00	Forb. Madaktivitet: Julie, Jesper
 15:00 - 16:00	Teamets time: Alle
 16:00 - 20:00	Madaktivitet: Alle
 20:00 - 21:00	P-café: P-café
-20:30 - 21:00	Lejrbålsforberedelse: Margrethe, Asti
+20:30 - 21:00	Forb. Lejrbål: Margrethe, Asti
 21:00 - 22:30	Lejrbål: Alle
 22:30 - 23:59	Nattevagt: Michael, Margrethe
