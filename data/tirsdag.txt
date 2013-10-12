@@ -14,6 +14,6 @@
 15:00 - 16:00 Forb. 24 timer: Asti
 13:00 - 22:30 HQ 24 timer: Uncas, Maria
 18:00 - 19:00	Aftensmad: Alle
-22:00 - 22:59 Nattevagt:
+22:00 - 22:59 Nattevagt: -
 19:00 - 22:30 24 timer: Alle
 
