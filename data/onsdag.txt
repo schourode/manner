@@ -7,7 +7,7 @@
 09:00 - 12:30 24 timer: Kirsten, Maria
 09:00 - 12:30 Administration: Luise, Morten
 12:30 - 13:00	Frokost: Alle
-12:00 - 22:59	Fraværende: Maria
+16:00 - 22:59	Fraværende: Maria
 13:00 - 16:00	Værdier: P-møde
 16:00 - 17:00	P-café: Vejleder
 16:00 - 17:00	Madkasser: Julie, Kim
@@ -17,5 +17,5 @@
 18:00 - 20:00	Madekspert: Mad
 18:30 - 19:30	Aftensmad: Alle
 19:30 - 20:00	Opvask: Luise, Jesper
-22:00 - 22:59 Nattevagt: Ida, Anne
+22:00 - 22:59 Nattevagt: -, Anne
 20:00 - 22:59	Natløb: Alle
