@@ -49,7 +49,7 @@ var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
 	'Vejleder': '#909',
 	'Velkomst': '#8533FF',
 	'Værdier': '#CC9900',
-	'Vækning': '#00FF00',
+	'Vækning': '#70DBDB',
 	'Forb. Vækning': '#f39',
     };
 
