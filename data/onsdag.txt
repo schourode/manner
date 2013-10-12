@@ -20,6 +20,6 @@
 18:00 - 20:00	Madekspert: Mad
 18:30 - 19:30	Aftensmad: Alle
 19:30 - 20:00	Opvask: Ida, Jesper
+20:00 - 22:30	Natløb: Jesper, Anne
+22:30 - 22:59 Nattevagt: Jesper, Anne
 20:00 - 22:59	Natløb: Alle
-22:00 - 22:59 Nattevagt: Jesper, Anne
-
