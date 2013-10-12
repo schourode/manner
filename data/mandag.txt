@@ -1,5 +1,5 @@
 06:00 - 17:30	Fraværende: Ida
-06:45 - 07:00	Vækningsforberedelse: Emil, Gitte
+06:45 - 07:00	Forb. Vækning: Emil, Gitte
 07:00 - 19:30	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Mad-ekspert: Mad
@@ -8,7 +8,7 @@
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 12:30	P-møde: P-møde
 09:30 - 11:00	Administration: Luise, Morten, Jonathan
-10:00 - 12.30	Modulforberedelse: Julie
+10:00 - 12.30	Forb. Modul: Julie
 11:30 - 12:30	Madkasser: Julie, Jonathan
 12:30 - 13:00	Frokost: Alle
 13:00 - 16:00	Modul: Julie
@@ -18,7 +18,7 @@
 17:30 - 22:30	Fraværende: Jesper
 18:30 - 19:30	Aftensmad: Alle
 19:30 - 20:00	Opvask: Katrine, Asti
-19:30 - 21:00	Aftenaktivitetsforberedelse: Mikkel, Kim, Morten
+19:30 - 21:00	Forb. Aftenaktivitet: Mikkel, Kim, Morten
 20:00 - 21:00	P-café: Vejleder
 21:00 - 22.30	Aftenaktivitet: Morten, Mikkel, Kim, Anne, Michael, Jesper, Uncas, Ida, Maria, Jonathan, Luise, Ulrik, Emil, Julie, Kirsten
 22:30 - 23:59	Nattevagt: Michael, Maria
