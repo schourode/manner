@@ -16,5 +16,6 @@
 13:00 - 22:30 HQ 24 timer: Uncas, Morten
 18:00 - 19:00	Aftensmad: Alle
 22:00 - 22:59 Nattevagt: -
-19:00 - 22:30 24 timer: Alle
+19:00 - 21:30 24 timer: Alle
+21:30 - 22:30 P-cafe: Vejleder
 
