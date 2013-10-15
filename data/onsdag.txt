@@ -4,8 +4,8 @@
 07:00 - 19:30	Køkken: Køkken
 08:00 - 09:00 Morgenmad: Alle
 09:00 - 14:00 Fraværende: Mai
-09:00 - 12:30 Forb. Gameshow: Margrethe, Gitte, Julie, Emil
-09:00 - 12:30 Forb. Natløb: Mikkel, Ulrik, Stald
+09:00 - 12:30 Forb. Gameshow: Margrethe, Gitte, Julie
+09:00 - 12:30 Forb. Natløb: Mikkel, Ulrik, Stald, Emil
 09:00 - 12:30 24 timer: Kirsten, Maria, Asti, Jesper, Jonathan, Kim, Uncas
 09:00 - 12:30 Administration: Luise, Morten
 12:30 - 13:00	Frokost: Alle
