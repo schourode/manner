@@ -5,9 +5,8 @@
 08:00 - 09:00 Morgenmad: Alle
 09:00 - 14:00 Fraværende: Mai
 09:00 - 12:30 Forb. Gameshow: Margrethe, Gitte, Julie
-09:00 - 12:30 Forb. Natløb: Mikkel, Ulrik, Stald, Emil
-09:00 - 12:30 24 timer: Kirsten, Maria, Asti, Jesper, Jonathan, Kim, Uncas
-09:00 - 12:30 Administration: Luise, Morten
+09:00 - 12:30 Forb. Natløb: Mikkel, Stald, Emil
+09:00 - 12:30 24 timer: Kirsten, Maria, Asti, Jesper, Jonathan, Kim, Uncas, Ulrik
 12:30 - 13:00	Frokost: Alle
 13:00 - 16:00	Værdier: P-møde, Uncas
 13:00 - 16:00	Forb. Natløb: Luise, Morten, Ulrik, Uncas
