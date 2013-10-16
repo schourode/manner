@@ -1,6 +1,6 @@
 07:00 - 22:59	Fraværende: Maria
 06:45 - 07:00	Forb. Vækning: Morten, Mai
-07:00 - 15:00	Køkken: Køkken
+07:00 - 13:00	Køkken: Køkken
 07:00 - 07:30	Vækning: Alle
 07:30 - 09:00	Mad-ekspert: Mad
 07:30 - 09:00	Lejrliv: Lejrliv
@@ -14,7 +14,7 @@
 09:30 - 12:30	Administration: Luise, Morten, Jonathan
 12:00 - 19:30	Fraværende: Luise
 12:30 - 13:00	Frokost: Alle
-13:00 - 15:00	Forb. Madaktivitet: Julie, Jesper, Morten
+13:00 - 15:00	Forb. Madaktivitet: -
 13:00 - 15:00	Gameshow: Alle
 15:00 - 19:30	Køkken: Køkken
 15:00 - 16:00	Teamets time: Alle
