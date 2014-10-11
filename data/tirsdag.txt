@@ -9,9 +9,9 @@
 09:30 - 12:30	Forb. Fællesaktivitet: Luna, Gitte, Asti, Anne, Margrethe, Kim, Ida, Price
 09:30 - 12:30	Administration: Luise, Morten
 12:30 - 13:00	Frokost: Alle
-13:00 - 16:30	Fællesaktivitet: Margrethe, Kim, Signe, Jens Mikkel, Kirsten, Jonathan, Mads, Luise, Maria, Price, Stald, Ida, Anne, Asti, Luna, Gitte, Emil, Jesper, Mikkel, Morten
+13:00 - 16:30	Fællesaktivitet: Margrethe, Kim, Signe, Jens Mikkel, Kirsten, Jonathan, Uncas, Luise, Maria, Price, Stald, Ida, Anne, Asti, Luna, Gitte, Emil, Jesper, Mikkel, Morten
 16:15 - 16:30	PL-evaluering: Vejleder
-16:30 - 18:45	Oprydning: Gitte, Luna, Jesper, Mads
+16:30 - 18:45	Oprydning: Gitte, Luna, Jesper, Uncas
 16:30 - 18:45	Aftensmad: Morten, Jens Mikkel, Signe, Stald, Margrethe, Asti, Anne, Kirsten, Emil, Luise
 16:30 - 17:00 Teamets time: Alle
 16:30 - 18:00	Administration: Jonathan
@@ -19,6 +19,6 @@
 16:30 - 18:00	Forb. Social evening: Margrethe, Luise
 19:00 - 19:45	Aftensmad, team: Alle
 19:45 - 20:00	PL-evaluering: Vejleder
-20:00 - 21:00	P-café: Maria, Morten, Luna, Jens Mikkel, Mads, Signe, Stald, Gitte, Jonathan, Asti, Jesper, Anne, Mikkel, Kim, Kirsten, Emil, Ida, Price
+20:00 - 21:00	P-café: Maria, Morten, Luna, Jens Mikkel, Uncas, Signe, Stald, Gitte, Jonathan, Asti, Jesper, Anne, Mikkel, Kim, Kirsten, Emil, Ida, Price
 21:00 - 22:00	Social evening: Alle
-23:00 - 23:59	Nattevagt: Maria, Emil
+22:00 - 23:59	Nattevagt: Maria, Emil
