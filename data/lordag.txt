@@ -1,8 +1,10 @@
-08:00 - 09:00	Køkken: Køkken
-07:45 - 08:00	Forb. Vækning: Mikkel, Maria
-08:00 - 08:30	Vækning: Alle
-08:30 - 09:00	Morgenmad: Alle
-09:00 - 09:30	Morgensamling: Alle
-09:30 - 11:00	Nedbrydning: Lejrliv
-11:00 - 12:00	Afslutning: Alle
-12:00 - 23:00	Oprydning, herefter bad & bajere: Alle
+07:45 - 08:00	Forb. Vækning: Alle
+08:00 - 08:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+08:00 - 11:00	Køkken: Køkken
+08:15 - 09:00	Morgenmad: Alle
+08:15 - 09:00	Teamets time: Alle
+09:00 - 09:15	Morgensamling: Alle
+09:15 - 11:00	Oprydning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+11:00 - 12:00	Hovedbanen: Alle
+12:00 - 12:30	Afslutning: Alle
+12:30 - 16:30	Oprydning bad og bajere: Alle
