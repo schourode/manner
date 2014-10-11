@@ -1,27 +1,19 @@
-07:00 - 22:59	Fraværende: Maria
-06:45 - 07:00	Forb. Vækning: Morten, Mai
-07:00 - 13:00	Køkken: Køkken
-07:00 - 07:30	Vækning: Alle
-07:30 - 09:00	Mad-ekspert: Mad
-07:30 - 09:00	Lejrliv: Lejrliv
-07:30 - 08:30	Morgenmad: Alle
-09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:00	P-møde: Margrethe
-09:30 - 12:00 Forb. Madaktivitet: Ulrik, Julie
-12:00 - 12:30	Forb. Gameshow: Margrethe, Julie, Ulrik
-09:30 - 12:30	Administration: Luise, Morten, Jonathan
-09:30 - 12:30	P-møde: P-møde, Uncas, Mikkel
-09:30 - 12:30	Forb. Gameshow: Ulrik, Julie
-09:30 - 12:30	Administration: Luise, Morten, Jonathan
-12:00 - 19:30	Fraværende: Luise
-12:30 - 13:00	Frokost: Alle
-13:00 - 15:00	Forb. Madaktivitet: Katrine, Morten, Mikkel
-13:00 - 15:00	Gameshow: Alle
-15:00 - 19:30	Køkken: Køkken
-15:00 - 16:00	Teamets time: Alle
-16:00 - 18:00	Fraværende: Margrethe
-16:00 - 20:00	Madaktivitet: Vejleder, Julie, Katrine, Asti, Kim
-20:00 - 21:00	P-café: Vejleder
-20:00 - 21:00	Forb. Lejrbål: Margrethe, Asti, Kim, Stald
-21:00 - 22:30	Lejrbål: Alle
-22:30 - 22:59	Nattevagt: Kim, Margrethe
+06:45 - 07:00	Forb. Vækning: Alle
+07:00 - 07:15	Vækning: Vejleder
+07:30 - 08:00	Teamets time: Alle
+07:30 - 16:30	Fraværende: Signe
+07:00 - 20:00	Køkken: Køkken
+07:30 - 08:00	Teamets time: Alle
+08:00 - 08:30	Morgenmad: Maria, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
+08:30 - 09:00	Morgensamling: Alle
+09:00 - 12:30	Moduler: Maria, Jens Mikkel, Gitte, Jesper, Mikkel, Kim, Ida, Price
+09:00 - 12:30	Administation: Luise, Morten, Jonathan
+12:30 - 13:00	Frokost
+13:00 - 15:30	Fællesaktivitet: Morten, Luna, Uncas, Stald, Margrethe, Jesper, Mikkel, Kim, Ida, Luise
+15:30 - 16:30	P-café: Luise, Emil, Kim, Mikkel, Asti, Jonathan, Stald, Uncas, Jens Mikkel, Morten
+18:00 - 18:30	Aftensmad, team: Alle
+16:30 - 20:00	Fællesaktivitet: Morten, Luna, Uncas, Stald, Margrethe, Jesper, Mikkel, Kim, Ida, Luise
+18:30 - 21:00	Forb. Natløb: Uncas, Anne, Jens Mikkel, Kirsten
+20:00 - 21:00	Fællesaktivitet: Morten, Luna, Signe, Stald, Margrethe, Jesper, Mikkel, Kim, Ida, Luise	
+21:00 - 23:59	Natløb: Alle
+00:00 - 07:00	Nattevagt: Ida, Asti
