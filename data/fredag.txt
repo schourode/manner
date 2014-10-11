@@ -1,21 +1,17 @@
-06:00 - 12:30	Fraværende: Maria
-06:45 - 07:00	Forb. Vækning: Kirsten, Jesper
-07:00 - 19:30	Køkken: Køkken
-07:00 - 07:30	Vækning: Alle
-07:30 - 09:00	Mad-ekspert: Mad
-07:30 - 09:00	Lejrliv: Lejrliv
-07:30 - 08:30	Morgenmad: Alle
+06:45 - 07:00	Forb. Vækning: Alle
+07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+07:00 - 20:00	Køkken: Køkken
+07:15 - 09:00	Morgenmad:Uncas, Morten, Jens Mikkel, Gitte, Margrethe, Asti, Mikkel, Kirsten, Emil, Price
+07:30 - 16:30	Fraværende: Signe
+07:30 - 08:30	Teamets time: Alle
 09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:30	P-møde: P-møde
-09:30 - 12:30	Administration: Luise, Morten, Jonathan
-09:30 - 12:30	Forb. Banket: Ulrik, Uncas, Julie
-12:00 - 15:30	Fraværende: Mai
+09:15 - 12:30	Projekt: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+10:00 - 15:00	Ida
+11:30 - 12:30	Kursistsnak: Maria, Luna, Uncas, Gitte, Margrethe, Jonathan, Jesper, Mikkel, Anne, Kirsten, Kim, Emil, Luise
 12:30 - 13:00	Frokost: Alle
-13:00 - 19:00	Nedbrydning: Lejrliv
-13:00 - 15:00	Forb. Banket: Asti
-15:00 - 19:00	Bademester: Asti
-13:00 - 19:00	Forb. Banket: Julie, Michael, Anne, Morten, Gitte, Luise, Jesper, Mai, Kirsten, Mikkel, Ida, Maria, Margrethe, Kim, Katrine
-19:00 - 22:30 Banket: Kirsten, Katrine
-22:00 - 22:59 Nattevagt: Kirsten, Katrine
-19:00 - 22:59	Banket: Alle
-
+13:00 - 18:30	Banketforberedelse: Anne, Jens Mikkel, Jesper, Kirsten, Luise, Maria, Morten, Price, Gitte, Mikkel, Signe	
+13:00 - 16:00	Oprydning: Emil, Uncas, Stald, Jonathan, Margrethe
+16:00 - 18:30	Oprydning: Emil, Uncas, Kim, Jonathan, Margrethe, Luna
+17:30 - 19:00	Bademester: Asti, Price
+18:30 - 19:00	Banketforberedelse: Jesper, Jonathan, Mikkel, Signe, Kirsten, Ida 
+19:00 - 23:00	Banket: Alle
