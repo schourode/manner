@@ -20,7 +20,7 @@
 18:45 - 19:00	PL-evaluering: Price, Emil, Kirsten, Mikkel, Jesper, Jonathan, Stald, Uncas, Maria, Jens Mikkel
 19:00 - 20:00	P-café: Vejleder
 19:00 - 20:00	Forb. projekt: Price
-20:00 - 21:00	Projekt: Price, Signe, Kirsten, Jesper, Emil, Asti, Luna, Luise, Mikkel, Emil, Margrethe, Anne, Uncas, Kim, Morten, Jens Mikkel, Gitte, Maria, Ida, Jonathan
 20:30 - 21:00	Forb. Lejrbål: Jonathan, Kirsten, Gitte
+20:00 - 21:00	Projekt: Vejleder
 21:00 - 22:00	Lejrbål: Alle
-22:00 - 07:00	Nattevagt: Anne, Price
+22:00 - 23:59	Nattevagt: Anne, Price
