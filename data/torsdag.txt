@@ -2,7 +2,7 @@
 07:00 - 07:15	Vækning: Vejleder
 07:30 - 08:00	Teamets time: Alle
 07:30 - 16:30	Fraværende: Signe
-07:00 - 13:00	Køkken: Køkken
+07:00 - 13:00	Køkken: Køkken, Stald
 07:30 - 08:00	Teamets time: Alle
 08:00 - 08:30	Morgenmad: Maria, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
 08:30 - 09:00	Morgensamling: Alle
