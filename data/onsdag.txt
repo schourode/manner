@@ -17,4 +17,4 @@
 20:00 - 21:00	P-café: Maria, Luna, Signe, Stald, Margrethe, Asti, Mikkel, Kirsten, Ida, Price
 20:00 - 21:00	Forb. Lejrbål: Emil, Jesper
 21:00 - 22:00	Lejrbål: Alle
-22:00 - 07:00	Nattevagt: Jesper, Ida
+22:00 - 23:59	Nattevagt: Jesper, Luna
