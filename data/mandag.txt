@@ -1,28 +1,21 @@
-06:00 - 17:30	Fraværende: Ida
-06:45 - 07:00	Forb. Vækning: Emil, Gitte
-07:00 - 19:30	Køkken: Køkken
-07:00 - 07:30	Vækning: Alle
-07:30 - 09:00	Mad-ekspert: Mad
-07:30 - 09:00	Lejrliv: Lejrliv
-07:30 - 08:30	Morgenmad: Alle
-08:30 - 09:00 Forb. P-møde: P-møde
-09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:30	Administration: Luise, Morten
-09:30 - 12:30	P-møde: P-møde
-09:30 - 11:30	Forb. Modul: Julie
-09:30 - 12:30	Forb. Modul: Uncas, Ulrik
-11:30 - 12:30	Madkasser: Julie, Jonathan
-12:30 - 13:00	Frokost: Alle
-13:00 - 16:00	Forb. Aftenaktivitet: Mikkel, Morten, Stald, Ulrik, Asti
-13:00 - 16:00	Administration: Jonathan
-13:00 - 16:00	Modul: Uncas, Emil, Julie, Margrethe, Kim, Gitte, Mai, Kirsten
-16:00 - 17:00	Teamets time: Alle
-17:00 - 18:30	Forb. Aftenaktivitet: Mikkel, Maria, Ida, Kirsten
-17:00 - 20:00	Mad-ekspert: Mad
-17:00 - 20:00	Lejrliv: Lejrliv
-17:30 - 22:30	Fraværende: Jesper
-18:30 - 19:30	Aftensmad: Alle
-19:30 - 20:00	Opvask: Gitte, Maria
-20:00 - 21:00	P-café: Vejleder, Margrethe
-21:00 - 22:30	Aftenaktivitet: Alle
-22:30 - 22:59	Nattevagt: Jonathan, Gitte
+06:45 - 07:00	Forb. Vækning: Alle
+07:00 - 08:00	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Mads, Margrethe, Maria, Morten, Price
+07:00 - 08:00	Forb. 24 timer: Gitte, Emil, Kim, Ida, Mikkel, Signe
+07:00 - 20:00	Køkken: Køkken
+08:00 - 09:00	Morgenmad: Alle
+08:00 - 15:00	Fraværende: Margrethe
+09:00 - 13:00	24 timer: Gitte, Emil, Anne, Asti, Stald
+09:00 - 13:00	Forb. 24 timer: Kim, Ida, Jens Mikkel, Jesper
+12:00 - 15:30	Fraværende: Ida
+13:30 - 14:00	Frokost: Alle
+14:00 - 15:15	24 timer: Mikkel, Signe
+15:15 - 15:30	PL-evaluering: Vejleder
+15:30 - 18:45	Aftensmad: Price, Emil, Kirsten, Mikkel, Jesper, Jonathan, Stald, Mads, Maria, Jens Mikkel
+18:00 - 18:45	Aftensmad, team: Alle
+18:45 - 19:00	PL-evaluering: Price, Emil, Kirsten, Mikkel, Jesper, Jonathan, Stald, Mads, Maria, Jens Mikkel
+19:00 - 20:00	P-café: Vejleder
+19:00 - 20:00	Forb. projekt: Price
+20:00 - 21:00	Projekt: Price, Signe, Kirsten, Jesper, Emil, Asti, Luna, Luise, Mikkel, Emil, Grethe, Anne, Uncas, Kim, Morten, Jens Mikkel, Gitte, Maria, Ida, Jonathan
+20:30 - 21:00	Forb. LejrbŒl: Jonathan, Kirsten, Gitte
+21:00 - 22:00	Lejrbål: Alle
+22:00 - 07:00	Nattevagt: Anne, Price
