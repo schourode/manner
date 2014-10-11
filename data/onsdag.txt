@@ -1,13 +1,14 @@
 06:45 - 07:00	Forb. Vækning: Alle
-07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Mads, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
 07:30 - 16:00	Fraværende: Luna
-07:00 - 20:00	Køkken: Køkken
+07:00 - 12:30	Køkken: Køkken
 07:15 - 09:00	Morgenmad: Maria, Luna, Mads, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
 07:30 - 08:30	Teamets time: Alle
 09:00 - 09:30	Morgensamling: Alle
 09:30 - 11:30	Projekt: Vejleder
 11:30 - 12:30	Modulforberedelse: Maria, Jens Mikkel, Signe, Gitte, Jonathan, Jesper, Mikkel, Kim, Ida, Price 
 12:30 - 13:00	Kursusbillede: Alle
+13:00 - 20:00	Køkken: Køkken
 13:00 - 13:30	Frokost: Alle	
 13:30 - 19:45	Madaktivitet: Alle
 19:45 - 20:00	PL-evaluering: Vejleder
