@@ -2,14 +2,14 @@
 07:00 - 07:15	Vækning: Vejleder
 07:30 - 08:00	Teamets time: Alle
 07:30 - 16:30	Fraværende: Signe
-07:00 - 20:00	Køkken: Køkken
+07:00 - 13:00	Køkken: Køkken
 07:30 - 08:00	Teamets time: Alle
 08:00 - 08:30	Morgenmad: Maria, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
 08:30 - 09:00	Morgensamling: Alle
 09:00 - 12:30	Moduler: Maria, Jens Mikkel, Gitte, Jesper, Mikkel, Kim, Ida, Price
 09:00 - 12:30	Administration: Luise, Morten, Jonathan
 12:30 - 13:00	Frokost: Alle
-13:00 - 15:30	Fællesaktivitet: Morten, Luna, Uncas, Stald, Margrethe, Jesper, Mikkel, Kim, Ida, Luise
+13:00 - 15:30	Fællesaktivitet: Morten, Luna, Uncas, Stald, Margrethe, Jesper, Mikkel, Kim, Ida, Luise, Køkken
 15:30 - 16:30	P-café: Luise, Emil, Kim, Mikkel, Asti, Jonathan, Stald, Uncas, Jens Mikkel, Morten
 18:00 - 18:30	Aftensmad, team: Alle
 16:30 - 20:00	Fællesaktivitet: Morten, Luna, Uncas, Stald, Margrethe, Jesper, Mikkel, Kim, Ida, Luise
