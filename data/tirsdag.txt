@@ -1,22 +1,22 @@
-07:00 - 22:59	Fraværende: Ulrik
-06:45 - 07:00	Forb. Vækning: Jonathan, Margrethe
-07:00 - 19:30	Køkken: Køkken
-07:00 - 07:30	Vækning: Alle
-07:30 - 09:00	Mad-ekspert: Mad
-07:30 - 09:00	Lejrliv: Lejrliv
-07:30 - 08:30	Morgenmad: Alle
+06:45 - 07:00	Forb. Vækning: Alle
+07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Mads, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+07:00 - 20:00	Køkken: Køkken
+07:15 - 09:00	Morgenmad: Maria, Luna, Mads, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
+07:30 - 16:30	Fraværende: Signe
+07:30 - 08:30	Teamets time: Alle
 09:00 - 09:30	Morgensamling: Alle
-09:00 - 17:00	Fraværende: Mai
-10:30 - 22:59	Fraværende: Ida
-09:30 - 12:30	P-møde: P-møde, Uncas
+09:30 - 12:30	Christiania: Maria, Jens Mikkel, Mads, Stald, Jonathan, Jesper Mikkel
+09:30 - 12:30	Forb. Fællesaktivitet: Luna, Gitte, Asti, Anne, Margrethe, Kim, Ida, Price
 09:30 - 12:30	Administration: Luise, Morten
 12:30 - 13:00	Frokost: Alle
-13:00 - 15:00 Forb. 24 timer: Alle
-15:00 - 16:00 Teamets time: Alle
-12:30 - 16:00	Administration: Jonathan
-13:00 - 21:30 HQ 24 timer: Uncas, Morten
-16:00 - 18:00 Forb. 24 timer: Alle
-18:00 - 19:00	Aftensmad: Alle
-19:00 - 21:30 24 timer: Alle
-21:30 - 22:30 P-cafe: Vejleder, Kim
-22:30 - 22:59 Nattevagt: Uncas, Morten
+13:00 - 16:30	Fællesaktivitet: Margrethe, Kim, Signe, Jens Mikkel, Kirsten, Jonathan, Mads, Luise, Maria, Price, Stald, Ida, Anne, Asti, Luna, Gitte, Emil, Jesper, Mikkel, Morten
+16:15 - 16:30	PL-evaluering: Vejleder
+16:30 - 18:45	Oprydning: Gitte, Luna, Jesper, Mads
+16:30 - 18:45	Aftensmad: Morten, Jens Mikkel, Signe, Stald, Margrethe, Asti, Anne, Kirsten, Emil, Luise
+16:30 - 18:00	Administration: Jonathan
+16:30 - 18:00	Forb. Social evening: Margrethe, Luise
+18:00 - 19:45	Aftensmad, team: Alle
+19:45 - 20:00	PL-evaluering: Vejleder
+20:00 - 21:00	P-café: Maria, Morten, Luna, Jens Mikkel, Mads, Signe, Stald, Gitte, Jonathan, Asti, Jesper, Anne, Mikkel, Kim, Kirsten, Emil, Ida, Price
+21:00 - 22:00	Social evening: Alle
+22:00 - 07:00	Nattevagt: Maria, Emil
