@@ -1,7 +1,7 @@
 06:45 - 07:00	Forb. Vækning: Alle
 07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
 07:00 - 16:30	Køkken: Køkken
-07:15 - 09:00	Morgenmad: Maria, Luna, Mads, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
+07:15 - 09:00	Morgenmad: Maria, Luna, Uncas, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
 07:30 - 16:30	Fraværende: Signe
 08:00 - 08:45	Teamets time: Alle
 09:00 - 09:30	Morgensamling: Alle
@@ -21,4 +21,4 @@
 19:45 - 20:00	PL-evaluering: Vejleder
 20:00 - 21:00	P-café: Maria, Morten, Luna, Jens Mikkel, Mads, Signe, Stald, Gitte, Jonathan, Asti, Jesper, Anne, Mikkel, Kim, Kirsten, Emil, Ida, Price
 21:00 - 22:00	Social evening: Alle
-22:00 - 07:00	Nattevagt: Maria, Emil
+23:00 - 23:59	Nattevagt: Maria, Emil
