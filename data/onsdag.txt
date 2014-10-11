@@ -1,25 +1,17 @@
-06:00 - 15:00	Fraværende: Ida
-07:00 - 08:00 Vækning: Vejleder
-07:00 - 08:00 24 timer: Alle
-07:00 - 19:30	Køkken: Køkken
-08:00 - 09:00 Morgenmad: Alle
-09:00 - 14:00 Fraværende: Mai
-09:00 - 12:30 Forb. Gameshow: Margrethe, Gitte, Julie
-09:00 - 12:30 Administarion: Luise, Morten
-09:00 - 12:30 Forb. Natløb: Mikkel, Stald, Emil
-09:00 - 12:30 24 timer: Kirsten, Maria, Asti, Jesper, Jonathan, Kim, Uncas, Ulrik
-12:30 - 13:00	Frokost: Alle
-13:00 - 16:00	Værdier: P-møde, Uncas
-13:00 - 16:00	Forb. Natløb: Luise, Morten, Ulrik, Uncas
-16:00 - 22:59	Fraværende: Maria
-16:00 - 17:00	P-café: Vejleder
-16:00 - 17:00	Madkasser: Julie, Kim, Asti
-17:00 - 18:00	Teamets time: Alle
-18:00 - 20:00	Forb. Natløb: Mikkel, Kirsten, Gitte, Morten
-18:00 - 20:00	Lejrliv: Lejrliv
-18:00 - 20:00	Madekspert: Mad
-18:30 - 19:30	Aftensmad: Alle
-19:30 - 20:00	Opvask: Ida, Jesper
-20:00 - 22:30	Natløb: Asti, Julie
-22:30 - 22:59 Nattevagt: Asti, Julie
-20:00 - 22:59	Natløb: Alle
+06:45 - 07:00	Forb. Vækning: Alle
+07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Mads, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
+07:30 - 16:00	Fraværende: Luna
+07:00 - 20:00	Køkken: Køkken
+07:15 - 09:00	Morgenmad: Maria, Luna, Mads, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
+07:30 - 08:30	Teamets time: Alle
+09:00 - 09:30	Morgensamling: Alle
+09:30 - 11:30	Projekt: Vejleder
+11:30 - 12:30	Modulforberedelse: Maria, Jens Mikkel, Signe, Gitte, Jonathan, Jesper, Mikkel, Kim, Ida, Price 
+12:30 - 13:00	Kursusbillede: Alle
+13:00 - 13:30	Frokost: Alle	
+13:30 - 19:45	Madaktivitet: Alle
+19:45 - 20:00	PL-evaluering: Vejleder
+20:00 - 21:00	P-café: Maria, Luna, Signe, Stald, Margrethe, Asti, Mikkel, Kirsten, Ida, Price
+20:00 - 21:00	Forb. Lejrbål: Emil, Jesper
+21:00 - 22:00	Lejrbål: Alle
+22:00 - 07:00	Nattevagt: Jesper, Ida
