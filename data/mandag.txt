@@ -1,7 +1,6 @@
 06:45 - 07:00	Forb. Vækning: Alle
 07:00 - 08:00	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price
 07:00 - 08:00	Forb. 24 timer: Gitte, Emil, Kim, Ida, Mikkel, Signe
-07:00 - 20:00	Køkken: Køkken
 08:00 - 09:00	Morgenmad: Alle
 08:00 - 15:00	Fraværende: Margrethe
 09:00 - 13:00	24 timer: Gitte, Emil, Anne, Asti, Stald
@@ -22,3 +21,4 @@
 20:30 - 21:00	Forb. Lejrbål: Jonathan, Kirsten, Gitte
 21:00 - 22:00	Lejrbål: Alle
 22:00 - 07:00	Nattevagt: Anne, Price
+07:00 - 20:00	Køkken: Køkken
