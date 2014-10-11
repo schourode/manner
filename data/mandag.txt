@@ -1,4 +1,5 @@
 06:45 - 07:00	Forb. Vækning: Alle
+07:00 - 16:00	Køkken: Køkken
 07:00 - 08:00	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price
 07:00 - 08:00	Forb. 24 timer: Gitte, Emil, Kim, Ida, Mikkel, Signe
 08:00 - 09:00	Morgenmad: Alle
@@ -12,6 +13,7 @@
 14:30 - 17:00	Fraværende: Mikkel
 15:15 - 15:30	PL-evaluering: Vejleder
 16:00 - 16:30 Teamets time: Alle
+16:30 - 20:00	Køkken: Køkken
 15:30 - 18:45	Aftensmad: Price, Emil, Kirsten, Mikkel, Jesper, Jonathan, Stald, Uncas, Maria, Jens Mikkel
 18:00 - 18:45	Aftensmad, team: Alle
 18:45 - 19:00	PL-evaluering: Price, Emil, Kirsten, Mikkel, Jesper, Jonathan, Stald, Uncas, Maria, Jens Mikkel
@@ -20,5 +22,4 @@
 20:00 - 21:00	Projekt: Price, Signe, Kirsten, Jesper, Emil, Asti, Luna, Luise, Mikkel, Emil, Grethe, Anne, Uncas, Kim, Morten, Jens Mikkel, Gitte, Maria, Ida, Jonathan
 20:30 - 21:00	Forb. Lejrbål: Jonathan, Kirsten, Gitte
 21:00 - 22:00	Lejrbål: Alle
-07:00 - 20:00	Køkken: Køkken
 22:00 - 07:00	Nattevagt: Anne, Price
