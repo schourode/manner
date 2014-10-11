@@ -1,8 +1,9 @@
 07:00 - 12:00 Fraværende: Jens Mikkel
-07:00 - 20:00	Køkken: Køkken
+07:00 - 12:00	Køkken: Køkken
 08:00 - 12:00	Forb. 24 timer: Gitte, Emil, Kim, Ida, Mikkel, Signe
 12:30 - 13:00	Hovedbanen: Alle
 13:00 - 14:00	Velkomst: Alle
+14:00 - 20:00	Køkken: Køkken
 14:00 - 22:00	HQ 24 timer: Gitte, Emil, Kim, Ida, Mikkel, Signe
 18:30 - 19:30	Aftensmad, team: Alle
 22:00 - 22:30	P-café: Vejleder
