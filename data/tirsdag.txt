@@ -1,18 +1,19 @@
 06:45 - 07:00	Forb. Vækning: Alle
 07:00 - 07:15	Vækning: Anne, Asti, Stald, Jens Mikkel, Jesper, Jonathan, Kirsten, Luise, Luna, Uncas, Margrethe, Maria, Morten, Price, Gitte, Emil, Kim, Ida, Mikkel, Signe
 07:00 - 16:30	Køkken: Køkken
+06:30 - 08:00 Fraværende: Luise
 07:15 - 09:00	Morgenmad: Maria, Luna, Uncas, Stald, Jonathan, Jesper, Mikkel, Kirsten, Emil, Price
 07:30 - 16:30	Fraværende: Signe
 08:00 - 08:45	Teamets time: Alle
 09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:30	Christiania: Maria, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel
+09:30 - 12:30	Christiania: Morten, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel, Kim, Ida, Price, Luise
 09:30 - 12:30	Forb. Fællesaktivitet: Luna, Gitte, Asti, Anne, Margrethe, Kim, Ida, Price
 09:30 - 12:30	Administration: Luise, Morten
 12:30 - 13:00	Frokost: Alle
 13:00 - 16:30	Fællesaktivitet: Margrethe, Kim, Signe, Jens Mikkel, Kirsten, Jonathan, Uncas, Luise, Maria, Price, Stald, Ida, Anne, Asti, Luna, Gitte, Emil, Jesper, Mikkel, Morten
 16:15 - 16:30	PL-evaluering: Vejleder
 16:30 - 18:45	Oprydning: Gitte, Luna, Jesper, Uncas
-16:30 - 18:45	Aftensmad: Morten, Jens Mikkel, Signe, Stald, Margrethe, Asti, Anne, Kirsten, Emil, Luise
+17:00 - 18:45	Aftensmad: Morten, Jens Mikkel, Signe, Stald, Margrethe, Asti, Anne, Kirsten, Emil, Luise
 16:30 - 17:00 Teamets time: Alle
 16:30 - 18:00	Administration: Jonathan
 16:30 - 20:00	Køkken: Køkken
