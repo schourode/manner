@@ -6,7 +6,7 @@
 07:30 - 16:30	Fraværende: Signe
 08:00 - 08:45	Teamets time: Alle
 09:00 - 09:30	Morgensamling: Alle
-09:30 - 12:30	Christiania: Morten, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel, Kim, Ida, Price, Luise
+09:30 - 12:30	Christiania: Morten, Jens Mikkel, Uncas, Stald, Jonathan, Jesper, Mikkel, Kim, Ida, Price, Luise, Kirsten
 09:30 - 12:30	Forb. Fællesaktivitet: Luna, Gitte, Asti, Anne, Margrethe, Kim, Ida, Price
 09:30 - 12:30	Administration: Luise, Morten
 12:30 - 13:00	Frokost: Alle
@@ -15,7 +15,7 @@
 16:30 - 17:00 Teamets time: Alle
 17:30 - 18:45	Oprydning: Gitte, Luna, Jesper, Uncas
 17:00 - 18:45	Aftensmad: Morten, Jens Mikkel, Signe, Stald, Margrethe, Asti, Anne, Kirsten, Emil, Luise
-16:30 - 18:00	Administration: Jonathan
+17:00 - 19:00	Administration: Jonathan, Luise, Morten
 17:00 - 20:00	Køkken: Køkken
 16:30 - 18:00	Forb. Social evening: Margrethe, Luise
 19:00 - 19:45	Aftensmad, team: Alle
