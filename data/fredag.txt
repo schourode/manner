@@ -10,8 +10,9 @@
 11:30 - 12:30	Kursistsnak: Maria, Luna, Uncas, Gitte, Margrethe, Jonathan, Jesper, Mikkel, Anne, Kirsten, Kim, Emil, Luise
 12:30 - 13:00	Frokost: Alle
 13:00 - 18:30	Banketforberedelse: Anne, Jens Mikkel, Jesper, Kirsten, Luise, Maria, Morten, Price, Gitte, Mikkel, Signe	
-13:00 - 16:00	Nedbrydning: Emil, Uncas, Stald, Jonathan, Margrethe
-16:00 - 18:30	Nedbrydning: Emil, Uncas, Kim, Jonathan, Margrethe, Luna
+13:00 - 16:00	Nedbrydning: Stald
+16:00 - 18:30	Nedbrydning: Luna, Kim
+13:00 - 18:30	Nedbrydning: Emil, Uncas, Jonathan, Margrethe
 17:30 - 19:00	Bademester: Asti, Price
 18:30 - 19:00	Banketforberedelse: Jesper, Jonathan, Mikkel, Signe, Kirsten, Ida 
 19:00 - 22:00 Banket: Jonathan, Jens Mikkel
